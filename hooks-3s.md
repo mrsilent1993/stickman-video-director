@@ -22,9 +22,9 @@
 
 | Phần | ⭐ Hook đề xuất (lời đọc) | Hình 0–3 giây | Chữ | Phương án khác |
 |---|---|---|---|---|
-| 1 | **"Eight billion people kneel. One doesn't."** | Đám đông quỳ rạp như domino. Camera dừng ở một người que **đứng thẳng** giữa đám đông: Thor bị xích, nhìn thẳng lên Loki | ONE DIDN'T KNEEL | "Loki won. And it ruined his life." |
-| 2 | **"Loki rules Earth… and he's a middle manager."** | Loki trên ngai vàng. Một sợi dây điều khiển hạ xuống móc vào vương miện của hắn | MIDDLE MANAGER? | "Everyone kneels. Nobody means it." |
-| 3 | **"One fake cube. And Earth is saved."** | Khối lập phương xanh trong tay sứ giả **nhấp nháy rồi tan thành không khí** | IT WAS FAKE | "Thor's advice to Loki? Lie." |
+| 1 | **"Eight billion people kneel. One doesn't."** | Đám đông quỳ rạp như domino. Camera dừng ở một người que **đứng thẳng** giữa đám đông: Thor bị xích, nhìn thẳng lên Loki | ONE DIDN'T KNEEL | "Lokin won. And it ruined his life." |
+| 2 | **"Lokin rules Earth… and he's a middle manager."** | Lokin trên ngai vàng. Một sợi dây điều khiển hạ xuống móc vào vương miện của hắn | MIDDLE MANAGER? | "Everyone kneels. Nobody means it." |
+| 3 | **"One fake cube. And Earth is saved."** | Khối lập phương xanh trong tay sứ giả **nhấp nháy rồi tan thành không khí** | IT WAS FAKE | "Thoren's advice to Lokin? Lie." |
 
 ## Thanos
 

@@ -15,8 +15,11 @@ Kênh YouTube người que, lời đọc tiếng Anh, bình luận theo kiểu "
 - **Kiểm tra trước khi giao file:** chạy grep trên các khối prompt ảnh để chắc không còn tên nhân vật, tên phim hay tên hãng.
 
 ### 2. Lời đọc và kịch bản
+- **Dùng tên nhại gần giống bản gốc** cho nhân vật, địa danh hư cấu, nhóm và vật phẩm trong lời đọc (ví dụ: Loki → Lokin, Thor → Thoren, Asgard → Ashgard, Avengers → the Vanguards, Tesseract → the Tesser Cube). Đọc phải dễ, TTS phát âm được, và **không trùng tên nhân vật nổi tiếng khác**. Nhân vật phụ quá đặc trưng thì không đặt tên ("a titan", "a giant brute").
+- Mỗi đề xuất có **bảng tên nhại**: bản gốc, tên trong video, cách đọc.
+- Tên phim chỉ nhắc chung ("one famous movie"). Câu thoại nổi tiếng thì diễn đạt lại.
 - Video phải mang tính **bình luận và biến đổi**: phần lớn thời lượng là **tưởng tượng gốc, phân tích và bài học**. Phần tóm tắt phim chỉ chiếm **khoảng 15% thời lượng hoặc ít hơn**.
-- **Được nhắc tên** nhân vật và phim trong lời đọc và tiêu đề để bình luận.
+- Tiêu đề và mô tả YouTube: hỏi người dùng muốn dùng tên nhại hay tên gốc. Tên gốc giúp tìm kiếm tốt hơn, tên nhại an toàn hơn.
 - **Không trích dài lời thoại phim.** Tối đa một cụm từ rất ngắn, nổi tiếng, có ghi rõ ngữ cảnh. Ưu tiên diễn đạt lại bằng lời của mình. Không dùng lời bài hát của phim.
 - Tách rõ **sự kiện trong phim** với **phần tưởng tượng "What if"**, và không bịa sự kiện, lời thoại hay số liệu.
 
