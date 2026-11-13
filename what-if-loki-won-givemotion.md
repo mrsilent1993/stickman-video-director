@@ -10,17 +10,23 @@ Nhân vật **chỉ gợi** hình ảnh trong phim, không vẽ y hệt bản g�
 | Mã | Mô tả |
 |---|---|
 | `zeke` | Zeke: a minimalist stick figure with a hollow round white head and two black dot eyes, a bright red beanie (smooth rounded knit, no pom-pom), a yellow t-shirt, black shorts and thin black stick limbs. |
-| `loki` | Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. |
-| `thor` | Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. |
+| `loki` | Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. |
+| `thor` | Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. |
 | `messenger` | A tall figure in a hooded black cloak, face completely hidden in shadow, thin black stick hands. |
 | `alien` | Alien soldier: a cartoon stick-figure soldier with a round grey helmet visor, simple grey armor plates and thin black limbs, comedic rather than scary. |
 | `hero` | Generic superhero: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, a plain colorful bodysuit (blue with a red cape), small mask, no emblem. |
 | `civilian` | Citizen (crowd member): a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, short brown hair, a muted green jacket and grey trousers. (Also make a version with a ponytail and a muted red coat for variety.) |
 
-- **Màu sắc:** xanh lá và vàng kim của Loki. Ảo ảnh là bản sao **tô xanh trong suốt** (Givemotion tự tô, không cần tạo ảnh riêng). Cảnh báo dùng đỏ. Phần 3 chuyển từ ngục tối sang nắng.
+- **Màu sắc:** xanh mòng két và bạc của "hoàng tử". Ảo ảnh là bản sao **tô xanh trong suốt** (Givemotion tự tô, không cần tạo ảnh riêng). Cảnh báo dùng đỏ. Phần 3 chuyển từ ngục tối sang nắng.
 - **An toàn:** không có cảnh chiến tranh đẫm máu. Lính ngoài hành tinh vẽ kiểu hài hước.
 
 # 2. Prompt ảnh cho ChatGPT
+
+## Mẹo tránh bị từ chối vì bản quyền
+- Nhân vật trong file này là **thiết kế gốc**, chỉ **gợi kiểu nhân vật** (hoàng tử lừa lọc dùng phép ảo ảnh, người anh chiến binh, gã khổng lồ trong bóng tối). Chúng **không dùng màu sắc, trang phục hay vũ khí đặc trưng** của bản gốc.
+- **Không gõ tên nhân vật, tên phim hay tên hãng** (Loki, Thor, Marvel, Avengers…) vào ChatGPT. Chỉ dán đúng prompt trong file.
+- Nếu ChatGPT vẫn từ chối: bỏ bớt chi tiết (ví dụ bỏ áo choàng hoặc vương miện), thêm câu *"This is an original character for a stick-figure animation."*, hoặc mở **cuộc trò chuyện mới** (ngữ cảnh cũ có thể làm ChatGPT nghi ngờ).
+- Lời đọc và tiêu đề video **vẫn nhắc tên Loki** để bình luận về phim. Đây là phần nội dung, không nằm trong ảnh.
 Tạo **ảnh mẫu** trước, rồi tạo tư thế trong **cùng cuộc trò chuyện** và đính kèm lại ảnh mẫu mỗi lần. Ảnh nhân vật và đạo cụ phải **nền trong suốt** (PNG). Đặt tên file đúng như mã.
 
 ## 2.1 Ảnh mẫu nhân vật
@@ -32,12 +38,12 @@ Character reference sheet: front, side and back views side by side at the same s
 
 **ref-loki.png**
 ```text
-Character reference sheet: front, side and back views side by side at the same scale. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
+Character reference sheet: front, side and back views side by side at the same scale. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
 ```
 
 **ref-thor.png**
 ```text
-Character reference sheet: front, side and back views side by side at the same scale. Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
+Character reference sheet: front, side and back views side by side at the same scale. Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
 ```
 
 **ref-messenger.png**
@@ -93,109 +99,109 @@ Keep exactly the same character design as the attached reference. Zeke: a minima
 
 **loki-arms-wide.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: standing tall, arms spread wide, triumphant smile. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: standing tall holding the crescent staff, arms spread wide, triumphant smile. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-throne.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: sitting sideways on a throne, one leg over the armrest, bored smirk. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: sitting sideways on a throne, one leg over the armrest, bored smirk. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-scepter-up.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: raising the scepter high, laughing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: raising the crescent staff high, laughing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-walk-away.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: walking away seen from behind, cape flowing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: walking away seen from behind, cape flowing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-frost-hand.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: staring in shock at his own hand which has turned icy blue. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: staring in shock at his own hand which has turned icy blue. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-thrown.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: flailing comically in mid-air, helmet askew. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: flailing comically in mid-air, crown askew. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-squint.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: narrowing his eyes suspiciously. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: narrowing his eyes suspiciously. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-shock-turn.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: turning his head sharply in alarm. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: turning his head sharply in alarm. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-snap.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: snapping his fingers with a sly grin, green sparkles around the hand. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: snapping his fingers with a sly grin, green sparkles around the hand. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-huddled.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: huddled small and scared on a big throne. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: huddled small and scared on a big throne. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-sit-floor.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: sitting on the floor, back leaning against prison bars, helmet off beside him, tired. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: sitting on the floor, back leaning against prison bars, crown off beside him, tired. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-bow.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: bowing deeply while holding out a glowing blue cube. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: bowing deeply while holding out a glowing blue cube. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-hold-cube.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: holding a glowing blue cube high, determined. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: holding a glowing blue cube high, determined. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-cliff.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: sitting on a rock seen from the side, hood of the green cape up, small smile. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: sitting on a rock seen from the side, the tall teal collar hiding most of his face, small smile. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **loki-sit-calm.png**
 ```text
-Keep exactly the same character design as the attached reference. Trickster prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, sleek long black hair combed back, a golden helmet with two long curved horns, a long dark-green cape, black leather armor with gold trim, holding a golden scepter tipped with a glowing blue gem. Suggestive cartoon design, not a copy of any film costume. Pose: sitting calmly without helmet, looking at a sunset. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the sly prince: a slender version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, narrow mischievous eyebrows, slicked-back black hair, a small silver crown shaped like two short branching antlers, a long teal cape with a tall stiff collar, a charcoal tunic with thin silver trim, and a slim silver staff topped with a glowing blue crescent moon. Pose: sitting calmly without the crown, looking at a sunset. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 ### thor (đính kèm `ref-thor.png`)
 
 **thor-cheered.png**
 ```text
-Keep exactly the same character design as the attached reference. Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. Pose: standing heroically with both arms raised. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. Pose: standing heroically with both arms raised. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **thor-cell.png**
 ```text
-Keep exactly the same character design as the attached reference. Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. Pose: sitting on a bench behind bars, wrists chained, calm. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. Pose: sitting on a bench behind bars, wrists chained, calm. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **thor-chained-stand.png**
 ```text
-Keep exactly the same character design as the attached reference. Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. Pose: standing tall with chained wrists, looking up defiantly. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. Pose: standing tall with chained wrists, looking up defiantly. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **thor-nod.png**
 ```text
-Keep exactly the same character design as the attached reference. Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. Pose: smiling warmly and nodding. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. Pose: smiling warmly and nodding. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **thor-look-sky.png**
 ```text
-Keep exactly the same character design as the attached reference. Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. Pose: looking up at the sky with a knowing smile. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. Pose: looking up at the sky with a knowing smile. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **thor-sit-calm.png**
 ```text
-Keep exactly the same character design as the attached reference. Thunder prince: a broad, muscular version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, long blond hair, short blond beard, a red cape and simple silver armor, no hammer. Pose: sitting calmly looking at a sunset. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the big brother: a broad, stocky version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wild copper-red hair tied back, a thick braided copper-red beard, a navy-blue cape, simple bronze shoulder plates and a wide leather belt, no weapon. Pose: sitting calmly looking at a sunset. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 ### messenger (đính kèm `ref-messenger.png`)
@@ -270,17 +276,17 @@ Keep exactly the same character design as the attached reference. Citizen (crowd
 
 **prop-tesseract.png**
 ```text
-a glowing blue translucent cube with light swirling inside. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a glowing blue crystal cube with soft light swirling inside. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
-**prop-horned-crown.png**
+**prop-antler-crown.png**
 ```text
-a golden helmet-crown with two long curved horns. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a small silver crown shaped like two short branching antlers. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
 **prop-statue.png**
 ```text
-a large stone statue of a slender caped figure with a horned helmet. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a large stone statue of a slender caped stick figure wearing a small antler-shaped crown and holding a crescent-topped staff. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
 **prop-portal.png**
@@ -303,9 +309,9 @@ an hourglass with the sand almost run out. Minimalist 2D vector cartoon, simple 
 a small planet Earth globe. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
-**prop-flag-horns.png**
+**prop-flag-crown.png**
 ```text
-a green flag showing only a simple golden horned-helmet symbol, no writing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a teal flag showing only a simple silver antler-crown symbol, no writing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
 **prop-puppet-string.png**
@@ -315,12 +321,12 @@ a single glowing puppet string with a hook, hanging from above. Minimalist 2D ve
 
 **prop-titan-shadow.png**
 ```text
-a huge purple shadowy silhouette of a giant seated on a throne, face not visible. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a huge dark smoky silhouette of a giant seated on a jagged throne, only two glowing amber eyes visible. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
 **prop-org-chart.png**
 ```text
-a simple org chart of boxes connected by lines: one big purple box on top, one small green box below, no writing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a simple org chart of boxes connected by lines: one big dark box on top, one small teal box below, no writing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
 **prop-scale.png**
@@ -335,12 +341,12 @@ a blinking red star in the night sky. Minimalist 2D vector cartoon, simple clean
 
 **prop-giant-fist.png**
 ```text
-a giant cartoon green fist. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a giant cartoon stone-grey fist. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
 **prop-phone-meme.png**
 ```text
-a phone screen showing only a cartoon horned-helmet face icon with a laughing emoji, no writing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+a phone screen showing only a cartoon antler-crown face icon with a laughing emoji, no writing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
 **prop-icons-likes.png**
@@ -367,7 +373,7 @@ a crumbling pile of sand in the shape of a fallen statue. Minimalist 2D vector c
 
 **bg-asgard-book.png**
 ```text
-An open storybook page showing a shining golden palace in the sky with rainbow bridges, warm light. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
+An open storybook page showing an original floating palace of white towers on a cloud island, warm light. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
 ```
 
 **bg-plaza.png**
@@ -387,7 +393,7 @@ The flat roof edge of the tallest skyscraper, windy, city spread out far below, 
 
 **bg-throne-room.png**
 ```text
-A grand throne room with green and gold banners (no writing), tall pillars and a huge golden throne. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
+A grand throne room with teal and silver banners (no writing), tall pillars and a huge silver throne. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
 ```
 
 **bg-dungeon.png**
@@ -402,7 +408,7 @@ Deep space with stars and a distant red-purple nebula. Wide 16:9 landscape backg
 
 **bg-city-screens.png**
 ```text
-A city street lined with big screens and banners showing only a green horned-helmet symbol, no writing. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
+A city street lined with big screens and banners showing only a silver antler-crown symbol, no writing. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
 ```
 
 **bg-cliff-far.png**
@@ -447,23 +453,23 @@ A stylized cartoon world map in muted colors, no labels. Wide 16:9 landscape bac
 | 2 | What if Loki actually conquered Earth? | bg-void-dark · zeke-lever | Zeke kéo cần gạt, màn hình lóe xanh lá |  |
 | 3 | Quick reminder. Loki grew up in Asgard, always standing in his brother Thor's shadow. | bg-asgard-book · thor-cheered · loki-walk-away (nhỏ) | Trang sách: Thor được tung hô, bóng Loki nhỏ phía sau |  |
 | 4 | Then he learned the truth: he was adopted, a child of the Frost Giants. | bg-asgard-book · loki-frost-hand | Bàn tay Loki chuyển màu xanh băng · Loki sững sờ |  |
-| 5 | So he decided that if he couldn't be loved, he would be obeyed. | bg-asgard-book · loki-walk-away · prop-horned-crown | Loki đội mũ sừng vàng, quay lưng bước đi |  |
+| 5 | So he decided that if he couldn't be loved, he would be obeyed. | bg-asgard-book · loki-walk-away · prop-antler-crown | Loki đội vương miện gạc bạc, quay lưng bước đi |  |
 | 6 | In The Avengers, he stole the Tesseract, a cube of limitless energy. | bg-void-dark · prop-tesseract | Khối lập phương xanh phát sáng xoay chậm |  |
 | 7 | He told a crowd to kneel, and announced he was burdened with glorious purpose. | bg-plaza · loki-arms-wide · civ-kneel ×8 | Loki dang tay trước đám đông quỳ, ánh xanh lấp lánh | KNEEL |
 | 8 | Then he opened a portal over New York, and an alien army poured through. | bg-city-portal · prop-portal · prop-alien-ship ×5 | Cổng xoáy trên bầu trời thành phố, tàu nhỏ hoạt hình bay ra (không chiến tranh đẫm máu) |  |
-| 9 | In the movie, the Avengers won. Hulk famously threw Loki around like a rag doll. | bg-asgard-book · prop-giant-fist · loki-thrown | Trang sách: tay xanh khổng lồ quăng Loki (hài hước) |  |
+| 9 | In the movie, the Avengers won. Hulk famously threw Loki around like a rag doll. | bg-asgard-book · prop-giant-fist · loki-thrown | Trang sách: nắm đấm đá khổng lồ quăng Loki (hài hước) |  |
 | 10 | But what if the portal never closed? | bg-city-portal · prop-portal · zeke-shock | Cổng vẫn xoáy, Zeke há hốc |  |
 | 11 | What if the heroes ran out of time, and Loki got exactly what he wanted? | bg-void-dark · prop-hourglass | Đồng hồ cát chảy hết |  |
 | 12 | Day one. The Avengers are captured. The skies are full of alien ships. | bg-city-portal · hero-caged ×3 · prop-energy-cage · prop-alien-ship ×6 | Anh hùng chung chung (không logo) trong lồng năng lượng · tàu bay đầy trời | DAY 1 |
-| 13 | And Loki stands on top of the tallest tower in Manhattan. | bg-tower-top · loki-arms-wide | Loki trên nóc tòa nhà, áo choàng xanh bay |  |
+| 13 | And Loki stands on top of the tallest tower in Manhattan. | bg-tower-top · loki-arms-wide | Loki trên nóc tòa nhà, áo choàng xanh mòng két bay |  |
 | 14 | Below him, a whole city kneels. | bg-plaza · civ-kneel ×12 | Camera lia xuống đám đông quỳ |  |
 | 15 | Then a whole country. Then the whole planet. | bg-world-map · prop-globe · civ-kneel (nhỏ, nhiều) | Quả địa cầu, đám đông quỳ lan khắp các châu lục |  |
 | 16 | For the first time in his life, nobody is ignoring him. | bg-tower-top · loki-arms-wide (cận) | Cận Loki mỉm cười, mắt long lanh |  |
-| 17 | He raises his scepter and laughs into the wind. | bg-tower-top · loki-scepter-up | Loki giơ quyền trượng, tia xanh bắn lên trời |  |
-| 18 | King of Earth. Finally. | bg-tower-top · prop-horned-crown (cận) | Vương miện sừng vàng lấp lánh · im lặng 1 nhịp | KING OF EARTH |
+| 17 | He raises his scepter and laughs into the wind. | bg-tower-top · loki-scepter-up | Loki giơ gậy phép trăng khuyết, tia xanh bắn lên trời |  |
+| 18 | King of Earth. Finally. | bg-tower-top · prop-antler-crown (cận) | Vương miện sừng vàng lấp lánh · im lặng 1 nhịp | KING OF EARTH |
 | 19 | But here's what most people forget about that movie. | bg-chalkboard · zeke-chalk | Zeke trước bảng đen |  |
 | 20 | Loki didn't bring that army by himself. | bg-space · prop-alien-ship ×4 · prop-puppet-string | Bóng tàu vũ trụ, dây điều khiển mờ phía trên |  |
-| 21 | He made a deal with someone much more powerful. | bg-space · prop-titan-shadow | Bóng khổng lồ tím trên ngai trong vũ trụ (chỉ là bóng) |  |
+| 21 | He made a deal with someone much more powerful. | bg-space · prop-titan-shadow | Bóng khổng lồ khói đen, mắt hổ phách trên ngai trong vũ trụ (chỉ là bóng) |  |
 | 22 | Someone who wanted the Tesseract back. | bg-space · prop-titan-shadow · prop-tesseract | Bàn tay khổng lồ vươn tới khối lập phương |  |
 | 23 | And on Loki's very first night as king, a voice from space reminds him of that deal. | bg-tower-top (đêm) · loki-shock-turn · prop-red-star | Loki giật mình quay lại, sao chớp đỏ · thẻ kết | PART 2 → |
 
@@ -499,15 +505,15 @@ And on Loki's very first night as king, a voice from space reminds him of that d
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
 | 1 | Loki rules Earth… and he's a middle manager. | bg-throne-room · loki-throne · prop-puppet-string | HOOK 0–3s: Loki trên ngai, một sợi dây điều khiển hạ xuống móc vào vương miện · HIT | MIDDLE MANAGER? |
-| 2 | Previously: Loki conquered Earth. But he owes someone a cube. | bg-void-dark · civ-kneel · prop-tesseract · prop-titan-shadow | Tua nhanh: đám đông quỳ, khối lập phương, bóng tím | PREVIOUSLY |
+| 2 | Previously: Loki conquered Earth. But he owes someone a cube. | bg-void-dark · civ-kneel · prop-tesseract · prop-titan-shadow | Tua nhanh: đám đông quỳ, khối lập phương, bóng khói | PREVIOUSLY |
 | 3 | So, what does a god of mischief do with a planet? | bg-throne-room · loki-throne · prop-globe | Loki ngồi trên ngai, tung quả địa cầu như quả bóng |  |
 | 4 | Week one. New rules. Everyone kneels when Loki walks by. | bg-plaza · loki-walk-away · civ-kneel ×8 | Đám đông quỳ theo từng bước Loki như domino | WEEK 1 |
 | 5 | Statues of Loki appear in every city. Bigger than the old ones. | bg-city-screens · prop-statue ×3 | Tượng Loki mọc lên thay tượng cũ |  |
-| 6 | His face is on every screen. His helmet is on every flag. | bg-city-screens · prop-flag-horns ×4 | Màn hình và cờ (chỉ hình mũ sừng, không chữ) |  |
+| 6 | His face is on every screen. His helmet is on every flag. | bg-city-screens · prop-flag-crown ×4 | Màn hình và cờ (chỉ hình vương miện gạc, không chữ) |  |
 | 7 | And at first, he loves it. | bg-throne-room · loki-arms-wide | Loki dang tay tận hưởng |  |
 | 8 | But week two, he notices something. | bg-throne-room · loki-squint | Loki nheo mắt | WEEK 2 |
 | 9 | People kneel when he's watching. And laugh when he's not. | bg-plaza · civ-kneel-peek ×2 · civ-giggle ×2 · loki-walk-away | Hai người que quỳ, rồi lén cười khúc khích sau lưng Loki |  |
-| 10 | Jokes about him spread faster than his orders. | bg-city-screens · civ-phone ×3 · prop-phone-meme | Điện thoại chuyền tay, biểu tượng mặt cười mũ sừng |  |
+| 10 | Jokes about him spread faster than his orders. | bg-city-screens · civ-phone ×3 · prop-phone-meme | Điện thoại chuyền tay, biểu tượng mặt cười vương miện gạc |  |
 | 11 | So Loki does what Loki does best. He uses illusions. | bg-throne-room · loki-snap | Loki búng tay, ánh xanh lóe |  |
 | 12 | Illusions of cheering crowds. Illusions of loyal generals. Illusions of applause. | bg-throne-room · civ-cheer ×10 (tô xanh mờ = ảo ảnh) | Đám đông ảo màu xanh mờ vỗ tay |  |
 | 13 | He fills his throne room with copies of people who love him. | bg-throne-room · civ-cheer ×12 (ảo ảnh) · loki-throne | Phòng ngai đầy người ảo xanh mờ |  |
@@ -519,12 +525,12 @@ And on Loki's very first night as king, a voice from space reminds him of that d
 | 19 | Where is the Tesseract? | bg-throne-room · prop-tesseract (rung) | Khối lập phương rung bần bật trên bệ · chữ chèn | WHERE IS IT? |
 | 20 | Loki finally understands what he really is. | bg-throne-room · loki-throne (bóng trên tường) | Loki nhìn bóng mình trên tường |  |
 | 21 | Not a king. A middle manager. | bg-void-dark · prop-puppet-string · loki-huddled (nhỏ) | Bóng Loki thu nhỏ, sợi dây điều khiển từ trên cao | MIDDLE MANAGER |
-| 22 | He rules Earth, but he answers to a titan. | bg-void-dark · prop-org-chart | Sơ đồ tổ chức: bóng tím ở trên, Loki ở dưới |  |
-| 23 | If he gives up the cube, he loses his power. | bg-void-dark · prop-scale · prop-tesseract · prop-horned-crown | Cán cân: khối lập phương / vương miện |  |
-| 24 | If he keeps it, the titan comes for him. | bg-space · prop-titan-shadow (to dần) | Bóng tím khổng lồ tiến đến gần |  |
+| 22 | He rules Earth, but he answers to a titan. | bg-void-dark · prop-org-chart | Sơ đồ tổ chức: bóng khói ở trên, Loki ở dưới |  |
+| 23 | If he gives up the cube, he loses his power. | bg-void-dark · prop-scale · prop-tesseract · prop-antler-crown | Cán cân: khối lập phương / vương miện |  |
+| 24 | If he keeps it, the titan comes for him. | bg-space · prop-titan-shadow (to dần) | Bóng khói khổng lồ tiến đến gần |  |
 | 25 | For the first time since he won, Loki is scared. | bg-throne-room · loki-huddled | Loki co người trên ngai trống trải |  |
 | 26 | And there's only one person on this planet who truly knows him. | bg-dungeon | Camera lướt xuống hầm ngục |  |
-| 27 | His brother. Locked in a cell, three floors below. | bg-dungeon · thor-cell · prop-prison-bars | Thor (tóc vàng, áo choàng đỏ, chung chung) ngồi trong ngục · thẻ kết | PART 3 → |
+| 27 | His brother. Locked in a cell, three floors below. | bg-dungeon · thor-cell · prop-prison-bars | người anh (tóc và râu đỏ đồng, áo choàng xanh navy) ngồi trong ngục · thẻ kết | PART 3 → |
 
 **Lời đọc gộp sẵn:**
 ```text
@@ -562,7 +568,7 @@ His brother. Locked in a cell, three floors below.
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
 | 1 | One fake cube. And Earth is saved. | bg-space · messenger-empty · prop-tesseract (tan biến) | HOOK 0–3s: khối lập phương trong tay sứ giả nhấp nháy rồi tan thành không khí · HIT | IT WAS FAKE |
-| 2 | Previously: Loki rules Earth, but a titan wants his cube back. | bg-void-dark · prop-horned-crown · prop-statue · prop-titan-shadow | Tua nhanh: ngai vàng, ảo ảnh, bóng tím | PREVIOUSLY |
+| 2 | Previously: Loki rules Earth, but a titan wants his cube back. | bg-void-dark · prop-antler-crown · prop-statue · prop-titan-shadow | Tua nhanh: ngai vàng, ảo ảnh, bóng khói | PREVIOUSLY |
 | 3 | So Loki walks down to the cell, alone. | bg-dungeon · loki-walk-away | Loki bước xuống cầu thang tối |  |
 | 4 | Thor looks up. He doesn't shout. He doesn't fight. | bg-dungeon · thor-cell · prop-prison-bars | Thor ngồi im, nhìn Loki |  |
 | 5 | He just says: you look tired, brother. | bg-dungeon · thor-nod · loki-sit-floor | Hai anh em nhìn nhau qua song sắt (không có chữ, chỉ là lời kể) |  |
