@@ -4,7 +4,7 @@
 - **Tên tiếng Anh:** *What If Loki CONQUERED Earth?* (Part 1–3)
 - **Ý chính:** Loki bắt cả hành tinh quỳ xuống, nhưng không bắt được ai thật lòng. Hắn chỉ là "quản lý cấp trung" của một titan. **Twist:** thần dối trá dùng một lời nói dối để cứu Trái Đất rồi biến mất, và chỉ Thor biết.
 - **Điểm rẽ:** trận New York trong *The Avengers*: cổng không gian không bao giờ đóng, các anh hùng bị bắt.
-- **Định dạng:** 3 phần nhịp nhanh, tổng lời đọc **811 từ**, khoảng **7–7,5 phút**. 16:9 · 1080p · ChatGPT, công cụ tạo giọng, Givemotion.
+- **Định dạng:** 3 phần nhịp nhanh, tổng lời đọc **811 từ**, khoảng **5,5–6 phút** (ngắn hơn Thanos; có thể thêm cảnh nếu cần 7 phút). 16:9 · 1080p · ChatGPT, công cụ tạo giọng, Givemotion.
 - **Giọng đọc:** nam trưởng thành, giọng Mỹ, baritone ấm, đọc nhanh và dứt khoát.
 - **Màu sắc:** xanh lá và vàng kim (màu Loki) trên nền thành phố. Phần 2 thêm ánh xanh ảo ảnh và đỏ cảnh báo. Phần 3 từ ngục tối chuyển sang nắng sáng.
 - **Nhạc:** phần 1 hoành tráng, đắc thắng. Phần 2 nhạc vương giả nhưng rỗng, dần bất an. Phần 3 dây đàn ấm, có cao trào khi Loki lừa sứ giả. Không dùng nhạc phim gốc.
