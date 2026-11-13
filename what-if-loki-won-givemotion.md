@@ -1,6 +1,6 @@
 # What If Loki Won? Kịch bản sản xuất cho Givemotion (3 phần)
 
-**16:9 · 1080p · 3 phần, tổng 821 từ lời đọc (khoảng 6 phút) · nhịp nhanh · đã gắn hook 3 giây đầu cho cả 3 phần**
+**16:9 · 1080p · 3 phần, tổng 987 từ lời đọc (khoảng 6 phút) · nhịp nhanh · đã gắn hook 3 giây đầu cho cả 3 phần**
 
 > ⚠️ **Givemotion không tạo được giọng đọc.** Mỗi phần cần một file giọng riêng: `voiceover-p1.mp3`, `voiceover-p2.mp3`, `voiceover-p3.mp3`.
 
@@ -369,6 +369,26 @@ a row of dark iron prison bars. Minimalist 2D vector cartoon, simple clean black
 a crumbling pile of sand in the shape of a fallen statue. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
 ```
 
+**prop-message-orb.png**
+```text
+a small glowing teal orb of light with a sparkling trail. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+```
+
+**prop-bridge.png**
+```text
+a small stone bridge whose cracks are sealing with glowing teal magic. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+```
+
+**prop-flowers.png**
+```text
+a small bouquet of flowers. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+```
+
+**prop-no-joke-sign.png**
+```text
+a round prohibition sign with a red slash over a simple laughing face, no writing. Minimalist 2D vector cartoon, simple clean black outlines, flat vibrant colors with cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Isolated on a transparent background. No text, no letters, no numbers, no watermark.
+```
+
 ## 2.4 Ảnh nền
 
 **bg-asgard-book.png**
@@ -441,15 +461,20 @@ A grassy hill at golden sunset overlooking a calm valley. Wide 16:9 landscape ba
 A stylized cartoon world map in muted colors, no labels. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
 ```
 
+**bg-classroom.png**
+```text
+A bright simple classroom with rows of small desks and a blank board. Wide 16:9 landscape background, NO people or characters, rich full-color 2D cartoon environment with cinematic volumetric light and soft depth of field, minimalist vector style with clean outlines. Leave open space in the lower center for characters. No text, no letters, no numbers, no logos, no watermark.
+```
+
 # 3. Kịch bản 3 phần
 
 **Hook 3 giây (cảnh 1 mỗi phần):** HIT âm thanh ở 0,0s · lời đọc bắt đầu ở 0,2s · chữ bật lên ở khoảng 1,2s · cắt cảnh trước giây thứ 3. **Phần còn lại:** mỗi cảnh 3–6 giây, hình thay đổi mỗi 2–3 giây, cắt theo nhịp nhạc, chữ trên hình giữ khoảng 1,5 giây.
 
-## Phần 1: Kneel (Quỳ xuống) · 23 cảnh
+## Phần 1: Kneel (Quỳ xuống) · 26 cảnh
 
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
-| 1 | Eight billion people kneel. One doesn't. | bg-plaza · civ-kneel ×20 · thor-chained-stand · loki-arms-wide (cao, xa) | HOOK 0–3s: đám đông quỳ rạp như domino, camera dừng ở Thor bị xích vẫn đứng thẳng, nhìn lên Loki · HIT ở 0,0s | ONE DIDN'T KNEEL |
+| 1 | Eight billion people kneel. One doesn't. | bg-plaza · civ-kneel ×20 · thor-chained-stand · loki-arms-wide (cao, xa) | HOOK 0–3s: HIT ở 0,0s · đám đông quỳ rạp như domino, camera dừng ở người anh bị xích vẫn đứng thẳng nhìn lên Loki | ONE DIDN'T KNEEL |
 | 2 | What if Loki actually conquered Earth? | bg-void-dark · zeke-lever | Zeke kéo cần gạt, màn hình lóe xanh lá |  |
 | 3 | Quick reminder. Loki grew up in Asgard, always standing in his brother Thor's shadow. | bg-asgard-book · thor-cheered · loki-walk-away (nhỏ) | Trang sách: Thor được tung hô, bóng Loki nhỏ phía sau |  |
 | 4 | Then he learned the truth: he was adopted, a child of the Frost Giants. | bg-asgard-book · loki-frost-hand | Bàn tay Loki chuyển màu xanh băng · Loki sững sờ |  |
@@ -467,11 +492,14 @@ A stylized cartoon world map in muted colors, no labels. Wide 16:9 landscape bac
 | 16 | For the first time in his life, nobody is ignoring him. | bg-tower-top · loki-arms-wide (cận) | Cận Loki mỉm cười, mắt long lanh |  |
 | 17 | He raises his scepter and laughs into the wind. | bg-tower-top · loki-scepter-up | Loki giơ gậy phép trăng khuyết, tia xanh bắn lên trời |  |
 | 18 | King of Earth. Finally. | bg-tower-top · prop-antler-crown (cận) | Vương miện sừng vàng lấp lánh · im lặng 1 nhịp | KING OF EARTH |
-| 19 | But here's what most people forget about that movie. | bg-chalkboard · zeke-chalk | Zeke trước bảng đen |  |
-| 20 | Loki didn't bring that army by himself. | bg-space · prop-alien-ship ×4 · prop-puppet-string | Bóng tàu vũ trụ, dây điều khiển mờ phía trên |  |
-| 21 | He made a deal with someone much more powerful. | bg-space · prop-titan-shadow | Bóng khổng lồ khói đen, mắt hổ phách trên ngai trong vũ trụ (chỉ là bóng) |  |
-| 22 | Someone who wanted the Tesseract back. | bg-space · prop-titan-shadow · prop-tesseract | Bàn tay khổng lồ vươn tới khối lập phương |  |
-| 23 | And on Loki's very first night as king, a voice from space reminds him of that deal. | bg-tower-top (đêm) · loki-shock-turn · prop-red-star | Loki giật mình quay lại, sao chớp đỏ · thẻ kết | PART 2 → |
+| 19 | His first royal act? He sends a message to Asgard, to his father: look at me now. | bg-tower-top (đêm) · loki-scepter-up · prop-message-orb | Loki thả một quả cầu ánh sáng xanh bay vút lên trời |  |
+| 20 | No answer comes back. | bg-space · prop-message-orb (nhỏ dần) | Bầu trời đêm im lặng, quả cầu nhỏ dần thành một chấm · im lặng 1 nhịp |  |
+| 21 | So he gives a speech to the whole planet instead. Billions of people listen in silence. | bg-city-screens · loki-arms-wide (chiếu trên màn hình) | Màn hình khắp thành phố chiếu hình Loki dang tay |  |
+| 22 | But here's what most people forget about that movie. | bg-chalkboard · zeke-chalk | Zeke trước bảng đen |  |
+| 23 | Loki didn't bring that army by himself. | bg-space · prop-alien-ship ×4 · prop-puppet-string | Bóng tàu vũ trụ, dây điều khiển mờ phía trên |  |
+| 24 | He made a deal with someone much more powerful. | bg-space · prop-titan-shadow | Bóng khổng lồ khói đen, mắt hổ phách trên ngai trong vũ trụ (chỉ là bóng) |  |
+| 25 | Someone who wanted the Tesseract back. | bg-space · prop-titan-shadow · prop-tesseract | Bàn tay khổng lồ vươn tới khối lập phương |  |
+| 26 | And on Loki's very first night as king, a voice from space reminds him of that deal. | bg-tower-top (đêm) · loki-shock-turn · prop-red-star | Loki giật mình quay lại, sao chớp đỏ · thẻ kết | PART 2 → |
 
 **Lời đọc gộp sẵn:**
 ```text
@@ -493,6 +521,9 @@ Then a whole country. Then the whole planet.
 For the first time in his life, nobody is ignoring him.
 He raises his scepter and laughs into the wind.
 King of Earth. Finally.
+His first royal act? He sends a message to Asgard, to his father: look at me now.
+No answer comes back.
+So he gives a speech to the whole planet instead. Billions of people listen in silence.
 But here's what most people forget about that movie.
 Loki didn't bring that army by himself.
 He made a deal with someone much more powerful.
@@ -500,37 +531,41 @@ Someone who wanted the Tesseract back.
 And on Loki's very first night as king, a voice from space reminds him of that deal.
 ```
 
-## Phần 2: The King of Earth (Vua của Trái Đất) · 27 cảnh
+## Phần 2: The King of Earth (Vua của Trái Đất) · 31 cảnh
 
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
-| 1 | Loki rules Earth… and he's a middle manager. | bg-throne-room · loki-throne · prop-puppet-string | HOOK 0–3s: Loki trên ngai, một sợi dây điều khiển hạ xuống móc vào vương miện · HIT | MIDDLE MANAGER? |
+| 1 | Loki rules Earth… and he's a middle manager. | bg-throne-room · loki-throne · prop-puppet-string | HOOK 0–3s: HIT · Loki trên ngai, một sợi dây điều khiển hạ xuống móc vào vương miện | MIDDLE MANAGER? |
 | 2 | Previously: Loki conquered Earth. But he owes someone a cube. | bg-void-dark · civ-kneel · prop-tesseract · prop-titan-shadow | Tua nhanh: đám đông quỳ, khối lập phương, bóng khói | PREVIOUSLY |
 | 3 | So, what does a god of mischief do with a planet? | bg-throne-room · loki-throne · prop-globe | Loki ngồi trên ngai, tung quả địa cầu như quả bóng |  |
 | 4 | Week one. New rules. Everyone kneels when Loki walks by. | bg-plaza · loki-walk-away · civ-kneel ×8 | Đám đông quỳ theo từng bước Loki như domino | WEEK 1 |
 | 5 | Statues of Loki appear in every city. Bigger than the old ones. | bg-city-screens · prop-statue ×3 | Tượng Loki mọc lên thay tượng cũ |  |
 | 6 | His face is on every screen. His helmet is on every flag. | bg-city-screens · prop-flag-crown ×4 | Màn hình và cờ (chỉ hình vương miện gạc, không chữ) |  |
 | 7 | And at first, he loves it. | bg-throne-room · loki-arms-wide | Loki dang tay tận hưởng |  |
-| 8 | But week two, he notices something. | bg-throne-room · loki-squint | Loki nheo mắt | WEEK 2 |
-| 9 | People kneel when he's watching. And laugh when he's not. | bg-plaza · civ-kneel-peek ×2 · civ-giggle ×2 · loki-walk-away | Hai người que quỳ, rồi lén cười khúc khích sau lưng Loki |  |
-| 10 | Jokes about him spread faster than his orders. | bg-city-screens · civ-phone ×3 · prop-phone-meme | Điện thoại chuyền tay, biểu tượng mặt cười vương miện gạc |  |
-| 11 | So Loki does what Loki does best. He uses illusions. | bg-throne-room · loki-snap | Loki búng tay, ánh xanh lóe |  |
-| 12 | Illusions of cheering crowds. Illusions of loyal generals. Illusions of applause. | bg-throne-room · civ-cheer ×10 (tô xanh mờ = ảo ảnh) | Đám đông ảo màu xanh mờ vỗ tay |  |
-| 13 | He fills his throne room with copies of people who love him. | bg-throne-room · civ-cheer ×12 (ảo ảnh) · loki-throne | Phòng ngai đầy người ảo xanh mờ |  |
-| 14 | Here's the problem with that. | bg-void-dark · zeke-explain | Zeke giơ một ngón tay |  |
-| 15 | If you fill a room with illusions, you can never tell who's real. | bg-throne-room · civ-cheer ×8 (ảo ảnh) + civ-kneel ×1 (thật, màu thường) · loki-squint | Một người thật lạc giữa đám ảo, Loki không phân biệt được |  |
-| 16 | Loki can make anyone kneel. He can't make anyone mean it. | bg-plaza · civ-kneel-peek (cận) | Cận một người quỳ, mắt nhìn đi chỗ khác | CAN'T MAKE THEM MEAN IT |
-| 17 | Month one. The alien army gets restless. They didn't come here to watch a coronation. | bg-city-portal · alien-impatient ×4 | Lính ngoài hành tinh hoạt hình gõ chân, khoanh tay | MONTH 1 |
-| 18 | And every night, the voice from space comes back, a little louder. | bg-space · prop-red-star | Sao đỏ chớp trên trời đêm, sóng âm to dần |  |
-| 19 | Where is the Tesseract? | bg-throne-room · prop-tesseract (rung) | Khối lập phương rung bần bật trên bệ · chữ chèn | WHERE IS IT? |
-| 20 | Loki finally understands what he really is. | bg-throne-room · loki-throne (bóng trên tường) | Loki nhìn bóng mình trên tường |  |
-| 21 | Not a king. A middle manager. | bg-void-dark · prop-puppet-string · loki-huddled (nhỏ) | Bóng Loki thu nhỏ, sợi dây điều khiển từ trên cao | MIDDLE MANAGER |
-| 22 | He rules Earth, but he answers to a titan. | bg-void-dark · prop-org-chart | Sơ đồ tổ chức: bóng khói ở trên, Loki ở dưới |  |
-| 23 | If he gives up the cube, he loses his power. | bg-void-dark · prop-scale · prop-tesseract · prop-antler-crown | Cán cân: khối lập phương / vương miện |  |
-| 24 | If he keeps it, the titan comes for him. | bg-space · prop-titan-shadow (to dần) | Bóng khói khổng lồ tiến đến gần |  |
-| 25 | For the first time since he won, Loki is scared. | bg-throne-room · loki-huddled | Loki co người trên ngai trống trải |  |
-| 26 | And there's only one person on this planet who truly knows him. | bg-dungeon | Camera lướt xuống hầm ngục |  |
-| 27 | His brother. Locked in a cell, three floors below. | bg-dungeon · thor-cell · prop-prison-bars | người anh (tóc và râu đỏ đồng, áo choàng xanh navy) ngồi trong ngục · thẻ kết | PART 3 → |
+| 8 | To be fair, Loki tries. He fixes bridges with magic. He clears traffic with a snap of his fingers. | bg-city-sunny · loki-snap · prop-bridge | Loki búng tay, cây cầu nứt liền lại và phát sáng |  |
+| 9 | Nobody thanks him. People whisper thanks to the heroes in their cages instead. | bg-city-portal · hero-caged ×2 · prop-energy-cage · civ-kneel ×2 · prop-flowers | Người dân lén đặt hoa trước lồng năng lượng của anh hùng |  |
+| 10 | He visits a school. The children recite his name perfectly, and look terrified doing it. | bg-classroom · civ-kneel ×6 (thu nhỏ thành học sinh, đứng) · loki-arms-wide | Học sinh người que đứng thẳng hàng, run rẩy · Loki gượng cười |  |
+| 11 | But week two, he notices something. | bg-throne-room · loki-squint | Loki nheo mắt | WEEK 2 |
+| 12 | People kneel when he's watching. And laugh when he's not. | bg-plaza · civ-kneel-peek ×2 · civ-giggle ×2 · loki-walk-away | Hai người que quỳ, rồi lén cười khúc khích sau lưng Loki |  |
+| 13 | Jokes about him spread faster than his orders. | bg-city-screens · civ-phone ×3 · prop-phone-meme | Điện thoại chuyền tay, biểu tượng mặt cười vương miện gạc |  |
+| 14 | So he bans jokes about himself. Now people whisper them, which somehow makes them funnier. | bg-city-screens · prop-no-joke-sign · civ-giggle ×2 | Biển cấm (mặt cười gạch chéo) · hai người que thì thầm rồi bật cười |  |
+| 15 | So Loki does what Loki does best. He uses illusions. | bg-throne-room · loki-snap | Loki búng tay, ánh xanh lóe |  |
+| 16 | Illusions of cheering crowds. Illusions of loyal generals. Illusions of applause. | bg-throne-room · civ-cheer ×10 (tô xanh mờ = ảo ảnh) | Đám đông ảo màu xanh mờ vỗ tay |  |
+| 17 | He fills his throne room with copies of people who love him. | bg-throne-room · civ-cheer ×12 (ảo ảnh) · loki-throne | Phòng ngai đầy người ảo xanh mờ |  |
+| 18 | Here's the problem with that. | bg-void-dark · zeke-explain | Zeke giơ một ngón tay |  |
+| 19 | If you fill a room with illusions, you can never tell who's real. | bg-throne-room · civ-cheer ×8 (ảo ảnh) + civ-kneel ×1 (thật, màu thường) · loki-squint | Một người thật lạc giữa đám ảo, Loki không phân biệt được |  |
+| 20 | Loki can make anyone kneel. He can't make anyone mean it. | bg-plaza · civ-kneel-peek (cận) | Cận một người quỳ, mắt nhìn đi chỗ khác | CAN'T MAKE THEM MEAN IT |
+| 21 | Month one. The alien army gets restless. They didn't come here to watch a coronation. | bg-city-portal · alien-impatient ×4 | Lính ngoài hành tinh hoạt hình gõ chân, khoanh tay | MONTH 1 |
+| 22 | And every night, the voice from space comes back, a little louder. | bg-space · prop-red-star | Sao đỏ chớp trên trời đêm, sóng âm to dần |  |
+| 23 | Where is the Tesseract? | bg-throne-room · prop-tesseract (rung) | Khối lập phương rung bần bật trên bệ · chữ chèn | WHERE IS IT? |
+| 24 | Loki finally understands what he really is. | bg-throne-room · loki-throne (bóng trên tường) | Loki nhìn bóng mình trên tường |  |
+| 25 | Not a king. A middle manager. | bg-void-dark · prop-puppet-string · loki-huddled (nhỏ) | Bóng Loki thu nhỏ, sợi dây điều khiển từ trên cao | MIDDLE MANAGER |
+| 26 | He rules Earth, but he answers to a titan. | bg-void-dark · prop-org-chart | Sơ đồ tổ chức: bóng khói ở trên, Loki ở dưới |  |
+| 27 | If he gives up the cube, he loses his power. | bg-void-dark · prop-scale · prop-tesseract · prop-antler-crown | Cán cân: khối lập phương / vương miện |  |
+| 28 | If he keeps it, the titan comes for him. | bg-space · prop-titan-shadow (to dần) | Bóng khói khổng lồ tiến đến gần |  |
+| 29 | For the first time since he won, Loki is scared. | bg-throne-room · loki-huddled | Loki co người trên ngai trống trải |  |
+| 30 | And there's only one person on this planet who truly knows him. | bg-dungeon | Camera lướt xuống hầm ngục |  |
+| 31 | His brother. Locked in a cell, three floors below. | bg-dungeon · thor-cell · prop-prison-bars | người anh (tóc và râu đỏ đồng, áo choàng xanh navy) ngồi trong ngục · thẻ kết | PART 3 → |
 
 **Lời đọc gộp sẵn:**
 ```text
@@ -541,9 +576,13 @@ Week one. New rules. Everyone kneels when Loki walks by.
 Statues of Loki appear in every city. Bigger than the old ones.
 His face is on every screen. His helmet is on every flag.
 And at first, he loves it.
+To be fair, Loki tries. He fixes bridges with magic. He clears traffic with a snap of his fingers.
+Nobody thanks him. People whisper thanks to the heroes in their cages instead.
+He visits a school. The children recite his name perfectly, and look terrified doing it.
 But week two, he notices something.
 People kneel when he's watching. And laugh when he's not.
 Jokes about him spread faster than his orders.
+So he bans jokes about himself. Now people whisper them, which somehow makes them funnier.
 So Loki does what Loki does best. He uses illusions.
 Illusions of cheering crowds. Illusions of loyal generals. Illusions of applause.
 He fills his throne room with copies of people who love him.
@@ -563,42 +602,48 @@ And there's only one person on this planet who truly knows him.
 His brother. Locked in a cell, three floors below.
 ```
 
-## Phần 3: God of Mischief (Thần lừa lọc) · 32 cảnh
+## Phần 3: God of Mischief (Thần lừa lọc) · 38 cảnh
 
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
-| 1 | One fake cube. And Earth is saved. | bg-space · messenger-empty · prop-tesseract (tan biến) | HOOK 0–3s: khối lập phương trong tay sứ giả nhấp nháy rồi tan thành không khí · HIT | IT WAS FAKE |
+| 1 | One fake cube. And Earth is saved. | bg-space · messenger-empty · prop-tesseract (tan biến) | HOOK 0–3s: HIT · khối lập phương trong tay sứ giả nhấp nháy rồi tan thành không khí | IT WAS FAKE |
 | 2 | Previously: Loki rules Earth, but a titan wants his cube back. | bg-void-dark · prop-antler-crown · prop-statue · prop-titan-shadow | Tua nhanh: ngai vàng, ảo ảnh, bóng khói | PREVIOUSLY |
 | 3 | So Loki walks down to the cell, alone. | bg-dungeon · loki-walk-away | Loki bước xuống cầu thang tối |  |
 | 4 | Thor looks up. He doesn't shout. He doesn't fight. | bg-dungeon · thor-cell · prop-prison-bars | Thor ngồi im, nhìn Loki |  |
 | 5 | He just says: you look tired, brother. | bg-dungeon · thor-nod · loki-sit-floor | Hai anh em nhìn nhau qua song sắt (không có chữ, chỉ là lời kể) |  |
 | 6 | Loki laughs. Then he doesn't. | bg-dungeon · loki-sit-floor (cận) | Nụ cười Loki tắt dần |  |
-| 7 | Because the whole planet kneels to him, and only one person actually sees him. | bg-plaza · civ-kneel ×10 (mờ dần) · thor-cell (rõ) | Đám đông quỳ mờ đi, chỉ còn Thor rõ nét |  |
-| 8 | Here's the twist. | bg-void-dark · zeke-shock | Màn hình rung nhẹ | THE TWIST |
-| 9 | The god of lies finally tells the truth: he's in over his head. | bg-dungeon · loki-sit-floor · prop-prison-bars | Loki ngồi xuống sàn, tựa vào song sắt |  |
-| 10 | And Thor gives him the oldest advice in Asgard: do what you do best. | bg-dungeon · thor-nod | Thor mỉm cười, gật đầu |  |
-| 11 | Lie. | bg-void-dark · loki-snap (cận mắt) | Mắt Loki lóe xanh · im lặng 1 nhịp | LIE |
-| 12 | That night, the titan's messenger arrives to collect the Tesseract. | bg-tower-top (đêm) · messenger-appear | Sứ giả trùm áo choàng đen xuất hiện trong làn khói |  |
-| 13 | Loki hands it over with a bow. Glowing, humming, perfect. | bg-tower-top (đêm) · loki-bow · prop-tesseract · messenger-appear | Loki cúi chào, đưa khối lập phương xanh rực |  |
-| 14 | It's an illusion. | bg-void-dark · prop-tesseract (nhấp nháy) | Cận khối lập phương nhấp nháy như ảo ảnh | ILLUSION |
-| 15 | By the time the messenger reaches space, the cube in his hands is empty air. | bg-space · messenger-empty | Bàn tay sứ giả mở ra, trống trơn, ánh xanh tan biến |  |
-| 16 | And the real Tesseract? Loki uses it one last time. | bg-tower-top · loki-hold-cube · prop-tesseract | Khối lập phương thật trong tay Loki, bừng sáng |  |
-| 17 | To close the portal. And send the alien army back where it came from. | bg-city-portal · prop-portal · alien-pulled ×4 · prop-alien-ship ×4 | Cổng xoáy hút tàu bay ngược lên, rồi khép lại |  |
-| 18 | Then he unlocks every cell. | bg-dungeon · prop-prison-bars (mở) | Cửa ngục bật mở hàng loạt |  |
-| 19 | The heroes walk out into the sunlight. And Loki? He's gone. | bg-city-sunny · hero-walk-out ×3 · bg-throne-room (ngai trống, chèn nhỏ) | Anh hùng bước ra nắng, ngai vàng trống |  |
-| 20 | No statues. No speeches. No one kneeling. | bg-city-sunny · prop-sand-pile | Tượng Loki đổ xuống thành cát |  |
-| 21 | The world thinks the Avengers escaped. They never learn who let them go. | bg-city-sunny · civ-cheer ×6 · hero-walk-out ×2 | Đám đông reo hò các anh hùng |  |
-| 22 | Only Thor knows. | bg-city-sunny · thor-look-sky | Thor nhìn lên trời, mỉm cười |  |
-| 23 | Somewhere far away, a figure in a green cloak watches the news, and smiles. | bg-cliff-far · loki-cliff | Bóng Loki trên mỏm đá xa, ánh màn hình hắt lên mặt |  |
-| 24 | He finally got what he wanted. Not a throne. Just one person who believed in him. | bg-dungeon · thor-nod (hồi tưởng, viền mờ) | Hồi tưởng: Thor gật đầu sau song sắt |  |
-| 25 | So what's the real lesson? | bg-chalkboard · zeke-chalk | Zeke trước bảng đen |  |
-| 26 | If you need people to kneel, you don't have their respect. You have their fear. | bg-chalkboard · zeke-chalk · civ-kneel · prop-icons-likes | Vẽ: người quỳ ≠ trái tim |  |
-| 27 | A thousand followers who don't mean it are worth less than one friend who does. | bg-void-dark · civ-cheer ×8 (mờ) · civ-stand (rõ) | Đám đông mờ nhạt bên trái, một người que sáng rõ bên phải |  |
-| 28 | We all chase likes, titles and applause, the illusions Loki filled his throne room with. | bg-void-dark · prop-icons-likes (tô xanh ảo ảnh) | Biểu tượng tim, cúp, vỗ tay xanh mờ như ảo ảnh |  |
-| 29 | But the moment things fall apart, you find out who's real. | bg-void-dark · civ-stand · zeke-shock | Ảo ảnh tan, còn lại một người que đứng cạnh |  |
-| 30 | Conquering Earth was easy. Being seen was the hard part. | bg-sunset-hill · loki-sit-calm · thor-sit-calm | Loki và Thor ngồi cạnh nhau ngắm hoàng hôn (hồi tưởng tuổi thơ) | BEING SEEN |
-| 31 | So here's my question: was Loki a villain, or just a little brother who wanted to be seen? | bg-void-dark · zeke-shrug | Zeke quay ra máy quay, nhún vai | VILLAIN OR BROTHER? |
-| 32 | Tell me in the comments. And which villain should win next? | bg-city-sunny · prop-portal (lóe xanh nhỏ) | Toàn cảnh thành phố nắng, một tia xanh lóe trên trời · thẻ kết |  |
+| 7 | Thor sits closer to the bars. You were always the clever one, he says. I was just the loud one. | bg-dungeon · thor-nod · prop-prison-bars | Người anh nghiêng sát song sắt, cười hiền |  |
+| 8 | Loki has waited his entire life to hear that. | bg-dungeon · loki-sit-floor (cận) | Cận mắt Loki long lanh · im lặng 1 nhịp |  |
+| 9 | Because the whole planet kneels to him, and only one person actually sees him. | bg-plaza · civ-kneel ×10 (mờ dần) · thor-cell (rõ) | Đám đông quỳ mờ đi, chỉ còn Thor rõ nét |  |
+| 10 | Here's the twist. | bg-void-dark · zeke-shock | Màn hình rung nhẹ | THE TWIST |
+| 11 | The god of lies finally tells the truth: he's in over his head. | bg-dungeon · loki-sit-floor · prop-prison-bars | Loki ngồi xuống sàn, tựa vào song sắt |  |
+| 12 | And Thor gives him the oldest advice in Asgard: do what you do best. | bg-dungeon · thor-nod | Thor mỉm cười, gật đầu |  |
+| 13 | Lie. | bg-void-dark · loki-snap (cận mắt) | Mắt Loki lóe xanh · im lặng 1 nhịp | LIE |
+| 14 | That night, the titan's messenger arrives to collect the Tesseract. | bg-tower-top (đêm) · messenger-appear | Sứ giả trùm áo choàng đen xuất hiện trong làn khói |  |
+| 15 | Loki hands it over with a bow. Glowing, humming, perfect. | bg-tower-top (đêm) · loki-bow · prop-tesseract · messenger-appear | Loki cúi chào, đưa khối lập phương xanh rực |  |
+| 16 | The messenger studies the cube for a long, long moment. | bg-tower-top (đêm) · messenger-appear · prop-tesseract | Sứ giả xoay khối lập phương, ánh xanh hắt lên mũ trùm |  |
+| 17 | Loki doesn't breathe. | bg-tower-top (đêm) · loki-bow (cận) | Cận Loki, một giọt mồ hôi lăn · tiếng tim đập |  |
+| 18 | Then the messenger nods, and vanishes into the dark. | bg-tower-top (đêm) · messenger-appear (tan vào khói) | Sứ giả tan vào khói đen |  |
+| 19 | It's an illusion. | bg-void-dark · prop-tesseract (nhấp nháy) | Cận khối lập phương nhấp nháy như ảo ảnh | ILLUSION |
+| 20 | By the time the messenger reaches space, the cube in his hands is empty air. | bg-space · messenger-empty | Bàn tay sứ giả mở ra, trống trơn, ánh xanh tan biến |  |
+| 21 | And the real Tesseract? Loki uses it one last time. | bg-tower-top · loki-hold-cube · prop-tesseract | Khối lập phương thật trong tay Loki, bừng sáng |  |
+| 22 | To close the portal. And send the alien army back where it came from. | bg-city-portal · prop-portal · alien-pulled ×4 · prop-alien-ship ×4 | Cổng xoáy hút tàu bay ngược lên, rồi khép lại |  |
+| 23 | Then he unlocks every cell. | bg-dungeon · prop-prison-bars (mở) | Cửa ngục bật mở hàng loạt |  |
+| 24 | The heroes walk out into the sunlight. And Loki? He's gone. | bg-city-sunny · hero-walk-out ×3 · bg-throne-room (ngai trống, chèn nhỏ) | Anh hùng bước ra nắng, ngai vàng trống |  |
+| 25 | No statues. No speeches. No one kneeling. | bg-city-sunny · prop-sand-pile | Tượng Loki đổ xuống thành cát |  |
+| 26 | The world thinks the Avengers escaped. They never learn who let them go. | bg-city-sunny · civ-cheer ×6 · hero-walk-out ×2 | Đám đông reo hò các anh hùng |  |
+| 27 | Only Thor knows. | bg-city-sunny · thor-look-sky | Thor nhìn lên trời, mỉm cười |  |
+| 28 | Somewhere far away, a figure in a green cloak watches the news, and smiles. | bg-cliff-far · loki-cliff | Bóng Loki trên mỏm đá xa, ánh màn hình hắt lên mặt |  |
+| 29 | He finally got what he wanted. Not a throne. Just one person who believed in him. | bg-dungeon · thor-nod (hồi tưởng, viền mờ) | Hồi tưởng: Thor gật đầu sau song sắt |  |
+| 30 | Here's the irony. The god of lies was finally honest, with the one person who mattered. | bg-dungeon · thor-nod · loki-sit-floor (viền mờ hồi tưởng) | Hồi tưởng: hai anh em qua song sắt, ánh đuốc ấm | THE IRONY |
+| 31 | So what's the real lesson? | bg-chalkboard · zeke-chalk | Zeke trước bảng đen |  |
+| 32 | If you need people to kneel, you don't have their respect. You have their fear. | bg-chalkboard · zeke-chalk · civ-kneel · prop-icons-likes | Vẽ: người quỳ ≠ trái tim |  |
+| 33 | A thousand followers who don't mean it are worth less than one friend who does. | bg-void-dark · civ-cheer ×8 (mờ) · civ-stand (rõ) | Đám đông mờ nhạt bên trái, một người que sáng rõ bên phải |  |
+| 34 | We all chase likes, titles and applause, the illusions Loki filled his throne room with. | bg-void-dark · prop-icons-likes (tô xanh ảo ảnh) | Biểu tượng tim, cúp, vỗ tay xanh mờ như ảo ảnh |  |
+| 35 | But the moment things fall apart, you find out who's real. | bg-void-dark · civ-stand · zeke-shock | Ảo ảnh tan, còn lại một người que đứng cạnh |  |
+| 36 | Conquering Earth was easy. Being seen was the hard part. | bg-sunset-hill · loki-sit-calm · thor-sit-calm | Loki và Thor ngồi cạnh nhau ngắm hoàng hôn (hồi tưởng tuổi thơ) | BEING SEEN |
+| 37 | So here's my question: was Loki a villain, or just a little brother who wanted to be seen? | bg-void-dark · zeke-shrug | Zeke quay ra máy quay, nhún vai | VILLAIN OR BROTHER? |
+| 38 | Tell me in the comments. And which villain should win next? | bg-city-sunny · prop-portal (lóe xanh nhỏ) | Toàn cảnh thành phố nắng, một tia xanh lóe trên trời · thẻ kết |  |
 
 **Lời đọc gộp sẵn:**
 ```text
@@ -608,6 +653,8 @@ So Loki walks down to the cell, alone.
 Thor looks up. He doesn't shout. He doesn't fight.
 He just says: you look tired, brother.
 Loki laughs. Then he doesn't.
+Thor sits closer to the bars. You were always the clever one, he says. I was just the loud one.
+Loki has waited his entire life to hear that.
 Because the whole planet kneels to him, and only one person actually sees him.
 Here's the twist.
 The god of lies finally tells the truth: he's in over his head.
@@ -615,6 +662,9 @@ And Thor gives him the oldest advice in Asgard: do what you do best.
 Lie.
 That night, the titan's messenger arrives to collect the Tesseract.
 Loki hands it over with a bow. Glowing, humming, perfect.
+The messenger studies the cube for a long, long moment.
+Loki doesn't breathe.
+Then the messenger nods, and vanishes into the dark.
 It's an illusion.
 By the time the messenger reaches space, the cube in his hands is empty air.
 And the real Tesseract? Loki uses it one last time.
@@ -626,6 +676,7 @@ The world thinks the Avengers escaped. They never learn who let them go.
 Only Thor knows.
 Somewhere far away, a figure in a green cloak watches the news, and smiles.
 He finally got what he wanted. Not a throne. Just one person who believed in him.
+Here's the irony. The god of lies was finally honest, with the one person who mattered.
 So what's the real lesson?
 If you need people to kneel, you don't have their respect. You have their fear.
 A thousand followers who don't mean it are worth less than one friend who does.
