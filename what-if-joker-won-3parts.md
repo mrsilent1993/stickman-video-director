@@ -2,7 +2,7 @@
 
 ## Tổng quan
 - **Định dạng:** 3 tập nhỏ, mỗi tập tự đứng được: có mở đầu gây tò mò, kết thúc bằng cliffhanger, tập 2 và 3 có đoạn "Previously" dài khoảng 5 giây.
-- **Tổng lời đọc:** **1049 từ** tiếng Anh. Đọc nhanh vừa, khoảng 150–155 từ/phút, cộng thẻ tiêu đề và thẻ kết thì **tổng khoảng 7–8 phút**.
+- **Tổng lời đọc:** **1057 từ** tiếng Anh. Đọc nhanh vừa, khoảng 150–155 từ/phút, cộng thẻ tiêu đề và thẻ kết thì **tổng khoảng 7–8 phút**.
 - **Giọng đọc:** giữ cùng giọng nam baritone ấm, nhưng **đọc nhanh hơn và dứt khoát hơn**, câu ngắn, ít ngắt dài.
 - **Định dạng hình:** 16:9 · 1080p · ChatGPT (ảnh), công cụ tạo giọng, Givemotion (dựng).
 
@@ -26,11 +26,11 @@ Nên tạo playlist **"Villain Wins: Joker"** và gắn thẻ màn hình kết n
 
 ---
 
-## Phần 1: The Button (Nút bấm) · 30 cảnh · 306 từ · khoảng 2.0 phút lời đọc
+## Phần 1: The Button (Nút bấm) · 30 cảnh · 303 từ · khoảng 2.0 phút lời đọc
 
 | # | Lời đọc (tiếng Anh) | Hình ảnh và chuyển động | Chữ trên hình |
 |---|---|---|---|
-| 1 | Two ferries. Two bombs. One deal from the Joker. | Đêm, cảng sương mù, 2 phà sáng đèn · zoom nhanh | JOKER'S BET |
+| 1 | Two boats. One button. Eleven fifty-nine. | HOOK 0–3s: HIT ở 0,0s · đồng hồ (không số) tích tắc, cắt nhanh phà trái → phà phải → ngón tay trên công tắc | 11:59 |
 | 2 | And tonight, someone actually pushes the button. | Cận ngón tay lơ lửng trên công tắc · nhịp trống dội |  |
 | 3 | In The Dark Knight, the Joker had one goal: prove that scared people become monsters. | Joker xòe tay cười · bóng người thường kéo dài thành bóng quái vật |  |
 | 4 | So he trapped two ferries in Gotham Harbor. | 2 phà trên bản đồ cảng, xích trói xuất hiện |  |
@@ -63,7 +63,7 @@ Nên tạo playlist **"Villain Wins: Joker"** và gắn thẻ màn hình kết n
 
 **Lời đọc gộp sẵn (dán vào công cụ tạo giọng):**
 ```text
-Two ferries. Two bombs. One deal from the Joker.
+Two boats. One button. Eleven fifty-nine.
 And tonight, someone actually pushes the button.
 In The Dark Knight, the Joker had one goal: prove that scared people become monsters.
 So he trapped two ferries in Gotham Harbor.
@@ -95,46 +95,48 @@ The harbor goes silent. Somewhere in Gotham, the Joker starts to laugh.
 He thinks he just won. But the river is hiding something. Part two is next.
 ```
 
-## Phần 2: Joker's City (Thành phố của Joker) · 33 cảnh · 325 từ · khoảng 2.1 phút lời đọc
+## Phần 2: Joker's City (Thành phố của Joker) · 34 cảnh · 331 từ · khoảng 2.2 phút lời đọc
 
 | # | Lời đọc (tiếng Anh) | Hình ảnh và chuyển động | Chữ trên hình |
 |---|---|---|---|
-| 1 | Previously: the Joker's ferry bet. Someone pressed the button. | Tua nhanh 3 hình: 2 phà, bàn tay, đèn tắt | PREVIOUSLY |
-| 2 | Now Gotham wakes up, and nothing feels the same. | Bình minh xám trên Gotham |  |
-| 3 | Morning. Grey sky. Quiet streets. | Lia nhanh qua phố vắng |  |
-| 4 | Nobody knows exactly who pressed the button. | Đám đông bước, đầu cúi |  |
-| 5 | But everyone knows someone did. | Mỗi người que liếc nhau |  |
-| 6 | Batman caught the Joker that night. It doesn't feel like a win. | Batman trên mái, vai trĩu |  |
-| 7 | Because the Joker already got what he wanted. | Joker trong xà lim, vắt chân |  |
-| 8 | From his cell, he doesn't need bombs anymore. His message is out there: | Mặt cười lan ra các màn hình thành phố |  |
-| 9 | You're no better than me. | Cận nụ cười Joker · nhạc dội | NO BETTER THAN ME |
-| 10 | The passengers go home. They don't talk about the vote. | Hành khách rời bến, quay lưng nhau |  |
-| 11 | They don't look each other in the eye. | Hai người que đi ngang, cùng nhìn xuống |  |
-| 12 | And every single one of them asks the same question: did I raise my hand? | Zeke nhìn bàn tay mình · bóng tay giơ trên tường |  |
-| 13 | That's the Joker's real genius. He didn't need to destroy Gotham. | Joker đặt quân cờ lên bàn cờ thành phố |  |
-| 14 | He just needed Gotham to doubt itself. | Gương vỡ phản chiếu thành phố |  |
-| 15 | Week one. Nobody rides the ferries. | Bến phà vắng tanh | WEEK 1 |
-| 16 | Neighbors lock their doors. Strangers become threats. | Ổ khóa bật lên liên tiếp · người lạ liếc nhau |  |
-| 17 | Clown faces start showing up on walls and screens. Copycats. | Hình mặt cười hiện lên tường, nhanh dần |  |
-| 18 | They don't need a plan. They just need people to believe the Joker was right. | Đám đông xem màn hình, im lặng |  |
-| 19 | The city answers with more walls. More cameras. More checkpoints. | Tường, camera, rào chắn mọc theo nhịp |  |
-| 20 | Everyone is watched. Nobody feels safer. | Zeke bị đèn soi, giơ tay |  |
-| 21 | Here's the thing about fear. It doesn't just make you act badly. | Zeke cầm phấn trước bảng đen |  |
-| 22 | It convinces you that everyone else will act worse. | Vẽ 2 người que, bong bóng nghĩ đầu kia là quái vật |  |
-| 23 | There's a name for this trap: the prisoner's dilemma. | Bảng 2×2 biểu tượng bật lên | PRISONER'S DILEMMA |
-| 24 | Two sides. Neither can trust the other. So betrayal starts to look logical. | Mũi tên trỏ vào ô 'cả hai phản bội' |  |
-| 25 | The Joker built the ferries as a perfect prisoner's dilemma. | Bảng 2×2 biến thành 2 phà |  |
-| 26 | And the prize was the soul of the city. | Joker cầm trái tim thành phố (biểu tượng) như quân cờ |  |
-| 27 | Gotham's hero, Harvey Dent, once promised a city that could trust itself. Now that promise sounds like a joke. | Áp phích hy vọng (không chữ) bị gió xé |  |
-| 28 | Month three. Gotham is still standing. | Tuyết rơi trên thành phố | MONTH 3 |
-| 29 | But it's colder. Quieter. Like everyone carries an invisible detonator in their pocket. | Túi áo người qua đường phát sáng hình hộp |  |
-| 30 | The Joker sits in his cell, smiling. He thinks the story is over. | Joker cười, camera lùi |  |
-| 31 | Month four. A diver is clearing the harbor, right where the prison ferry was anchored. | Dưới nước, thợ lặn rọi đèn | MONTH 4 |
-| 32 | His light hits something in the mud. A small grey box. | Đèn chiếu trúng hộp xám · zoom gấp |  |
-| 33 | And it changes everything. Part three is next. | Thẻ kết | PART 3 → |
+| 1 | Your neighbor might have pressed it. | HOOK 0–3s: HIT · hàng xóm khóa cửa, liếc nhìn; túi áo mọi người phát sáng hình chiếc hộp | WAS IT YOU? |
+| 2 | Previously: the Joker's ferry bet. Someone pressed the button. | Tua nhanh 3 hình: 2 phà, bàn tay, đèn tắt | PREVIOUSLY |
+| 3 | Now Gotham wakes up, and nothing feels the same. | Bình minh xám trên Gotham |  |
+| 4 | Morning. Grey sky. Quiet streets. | Lia nhanh qua phố vắng |  |
+| 5 | Nobody knows exactly who pressed the button. | Đám đông bước, đầu cúi |  |
+| 6 | But everyone knows someone did. | Mỗi người que liếc nhau |  |
+| 7 | Batman caught the Joker that night. It doesn't feel like a win. | Batman trên mái, vai trĩu |  |
+| 8 | Because the Joker already got what he wanted. | Joker trong xà lim, vắt chân |  |
+| 9 | From his cell, he doesn't need bombs anymore. His message is out there: | Mặt cười lan ra các màn hình thành phố |  |
+| 10 | You're no better than me. | Cận nụ cười Joker · nhạc dội | NO BETTER THAN ME |
+| 11 | The passengers go home. They don't talk about the vote. | Hành khách rời bến, quay lưng nhau |  |
+| 12 | They don't look each other in the eye. | Hai người que đi ngang, cùng nhìn xuống |  |
+| 13 | And every single one of them asks the same question: did I raise my hand? | Zeke nhìn bàn tay mình · bóng tay giơ trên tường |  |
+| 14 | That's the Joker's real genius. He didn't need to destroy Gotham. | Joker đặt quân cờ lên bàn cờ thành phố |  |
+| 15 | He just needed Gotham to doubt itself. | Gương vỡ phản chiếu thành phố |  |
+| 16 | Week one. Nobody rides the ferries. | Bến phà vắng tanh | WEEK 1 |
+| 17 | Neighbors lock their doors. Strangers become threats. | Ổ khóa bật lên liên tiếp · người lạ liếc nhau |  |
+| 18 | Clown faces start showing up on walls and screens. Copycats. | Hình mặt cười hiện lên tường, nhanh dần |  |
+| 19 | They don't need a plan. They just need people to believe the Joker was right. | Đám đông xem màn hình, im lặng |  |
+| 20 | The city answers with more walls. More cameras. More checkpoints. | Tường, camera, rào chắn mọc theo nhịp |  |
+| 21 | Everyone is watched. Nobody feels safer. | Zeke bị đèn soi, giơ tay |  |
+| 22 | Here's the thing about fear. It doesn't just make you act badly. | Zeke cầm phấn trước bảng đen |  |
+| 23 | It convinces you that everyone else will act worse. | Vẽ 2 người que, bong bóng nghĩ đầu kia là quái vật |  |
+| 24 | There's a name for this trap: the prisoner's dilemma. | Bảng 2×2 biểu tượng bật lên | PRISONER'S DILEMMA |
+| 25 | Two sides. Neither can trust the other. So betrayal starts to look logical. | Mũi tên trỏ vào ô 'cả hai phản bội' |  |
+| 26 | The Joker built the ferries as a perfect prisoner's dilemma. | Bảng 2×2 biến thành 2 phà |  |
+| 27 | And the prize was the soul of the city. | Joker cầm trái tim thành phố (biểu tượng) như quân cờ |  |
+| 28 | Gotham's hero, Harvey Dent, once promised a city that could trust itself. Now that promise sounds like a joke. | Áp phích hy vọng (không chữ) bị gió xé |  |
+| 29 | Month three. Gotham is still standing. | Tuyết rơi trên thành phố | MONTH 3 |
+| 30 | But it's colder. Quieter. Like everyone carries an invisible detonator in their pocket. | Túi áo người qua đường phát sáng hình hộp |  |
+| 31 | The Joker sits in his cell, smiling. He thinks the story is over. | Joker cười, camera lùi |  |
+| 32 | Month four. A diver is clearing the harbor, right where the prison ferry was anchored. | Dưới nước, thợ lặn rọi đèn | MONTH 4 |
+| 33 | His light hits something in the mud. A small grey box. | Đèn chiếu trúng hộp xám · zoom gấp |  |
+| 34 | And it changes everything. Part three is next. | Thẻ kết | PART 3 → |
 
 **Lời đọc gộp sẵn (dán vào công cụ tạo giọng):**
 ```text
+Your neighbor might have pressed it.
 Previously: the Joker's ferry bet. Someone pressed the button.
 Now Gotham wakes up, and nothing feels the same.
 Morning. Grey sky. Quiet streets.
@@ -170,52 +172,54 @@ His light hits something in the mud. A small grey box.
 And it changes everything. Part three is next.
 ```
 
-## Phần 3: The Box in the River (Chiếc hộp dưới sông) · 39 cảnh · 418 từ · khoảng 2.8 phút lời đọc
+## Phần 3: The Box in the River (Chiếc hộp dưới sông) · 40 cảnh · 423 từ · khoảng 2.8 phút lời đọc
 
 | # | Lời đọc (tiếng Anh) | Hình ảnh và chuyển động | Chữ trên hình |
 |---|---|---|---|
-| 1 | Previously: someone pressed the button, and the Joker broke Gotham's trust. | Tua nhanh: bàn tay, ổ khóa, mặt cười | PREVIOUSLY |
-| 2 | But a diver just found something in the river. | Thợ lặn nhấc hộp khỏi bùn |  |
-| 3 | A small grey box. One switch. | Cận hộp xoay chậm |  |
-| 4 | The second detonator. The one meant for the civilians. | Mũi tên từ hộp chỉ về phà dân thường |  |
-| 5 | The switch has never been pressed. The safety is still on. | Cận nắp an toàn đóng |  |
-| 6 | It hit the water before midnight. | Tua lại: hộp rơi xuống nước, đồng hồ chưa tới 12 |  |
-| 7 | Commissioner Gordon stares at it for a long time. | Gordon, hộp trên bàn, đèn vàng |  |
-| 8 | Then he understands. | Gordon tháo kính |  |
-| 9 | The prisoners had the power to save themselves. | Hồi tưởng: tù nhân cầm hộp |  |
-| 10 | They chose not to use it. | Ném qua cửa sổ |  |
-| 11 | They gave the civilians their lives. | Phà dân thường sáng đèn ấm |  |
-| 12 | Gordon walks out in front of the cameras, and tells Gotham the truth. | Họp báo, đèn flash dồn dập |  |
-| 13 | The people we called monsters were the ones who chose mercy. | Mặt nạ quái vật rơi khỏi bóng tù nhân | THEY CHOSE MERCY |
-| 14 | The city goes silent again. But this time, it isn't fear. | Người que xem TV trong nhà |  |
-| 15 | It's shame. And shame can change people. | Đèn cửa sổ bật sáng dần |  |
-| 16 | The Joker hears the news on a radio in his cell. | Joker bên radio |  |
-| 17 | And for the first time, he isn't laughing. | Nụ cười tắt · nhạc dừng 1 nhịp |  |
-| 18 | Here's the twist. The Joker won the bet. | Cán cân: nút bấm bên trái | THE TWIST |
-| 19 | But he lost the argument. | Hộp chưa bấm bên phải nặng xuống |  |
-| 20 | His experiment was supposed to prove everyone is a monster. | Joker chỉ vào đám đông |  |
-| 21 | Instead, it proved monsters aren't always who we think. | Đám đông quay sang nhìn tù nhân, ánh mắt đổi |  |
-| 22 | Year one. Gotham starts doing things that sounded crazy before. | Thành phố nắng sáng hơn | YEAR 1 |
-| 23 | People visit the prison. They write letters. | Phong bì bay qua song sắt |  |
-| 24 | Ferry passengers build a memorial on the harbor. No clown face. Just an empty box and a switch. | Đài tưởng niệm hình hộp và công tắc · hoa |  |
-| 25 | And the person who pressed the button? One night, they walk into a police station. | Bóng người không rõ mặt đẩy cửa đồn |  |
-| 26 | Three words: it was me. | Đặt tay lên bàn · im lặng |  |
-| 27 | No one cheers. But for the first time, Gotham listens. | Người que ngồi vòng tròn lắng nghe |  |
-| 28 | Batman watches from a rooftop. He couldn't stop the bet. But the city found its own answer. | Batman trên mái, thành phố đèn ấm |  |
-| 29 | Ten years later, kids on a school trip ride the ferry and ask what happened. | Học sinh mũ vàng trên phà nắng | 10 YEARS LATER |
-| 30 | Their teacher tells them about two boats, two buttons, one choice made in fear, and one made in mercy. | Cô giáo cầm 2 phà mô hình |  |
-| 31 | The Joker wanted to be remembered. Instead, Gotham remembers the man who threw a detonator into the river. | Tượng tù nhân ném hộp · Zeke đặt hoa |  |
-| 32 | So what's the lesson? Fear makes good people do terrible things. | Zeke trước bảng đen: sợ → hành động xấu |  |
-| 33 | But one act of trust can break the spell. | Vẽ: tin tưởng → xích đứt |  |
-| 34 | We face little ferries every day. A rumor about a coworker. A group chat turning on someone. | Văn phòng, người que thì thầm · điện thoại bong bóng chat (biểu tượng) |  |
-| 35 | We assume they'll press first, so we press ours. We call it self-defense. | 2 người que cầm nút, liếc nhau |  |
-| 36 | The braver move is to throw the detonator away, without knowing what the other boat will do. | Zeke ném hộp, nó hóa thành con chim bay |  |
-| 37 | That isn't weakness. It's the one thing the Joker never saw coming. | Joker nhìn bàn cờ đổ |  |
-| 38 | So be honest: if you were on that ferry, would you have raised your hand? | Zeke nhìn thẳng máy quay, tay giơ lửng | WOULD YOU? |
-| 39 | Tell me in the comments. And tell me which villain should win next. | Kéo lên toàn cảnh cảng đêm, 2 phà sáng đèn · thẻ kết |  |
+| 1 | This box was never pressed. | HOOK 0–3s: HIT · thợ lặn nhấc hộp khỏi bùn, phóng cận nắp an toàn còn đóng | NEVER PRESSED |
+| 2 | Previously: someone pressed the button, and the Joker broke Gotham's trust. | Tua nhanh: bàn tay, ổ khóa, mặt cười | PREVIOUSLY |
+| 3 | But a diver just found something in the river. | Thợ lặn nhấc hộp khỏi bùn |  |
+| 4 | A small grey box. One switch. | Cận hộp xoay chậm |  |
+| 5 | The second detonator. The one meant for the civilians. | Mũi tên từ hộp chỉ về phà dân thường |  |
+| 6 | The switch has never been pressed. The safety is still on. | Cận nắp an toàn đóng |  |
+| 7 | It hit the water before midnight. | Tua lại: hộp rơi xuống nước, đồng hồ chưa tới 12 |  |
+| 8 | Commissioner Gordon stares at it for a long time. | Gordon, hộp trên bàn, đèn vàng |  |
+| 9 | Then he understands. | Gordon tháo kính |  |
+| 10 | The prisoners had the power to save themselves. | Hồi tưởng: tù nhân cầm hộp |  |
+| 11 | They chose not to use it. | Ném qua cửa sổ |  |
+| 12 | They gave the civilians their lives. | Phà dân thường sáng đèn ấm |  |
+| 13 | Gordon walks out in front of the cameras, and tells Gotham the truth. | Họp báo, đèn flash dồn dập |  |
+| 14 | The people we called monsters were the ones who chose mercy. | Mặt nạ quái vật rơi khỏi bóng tù nhân | THEY CHOSE MERCY |
+| 15 | The city goes silent again. But this time, it isn't fear. | Người que xem TV trong nhà |  |
+| 16 | It's shame. And shame can change people. | Đèn cửa sổ bật sáng dần |  |
+| 17 | The Joker hears the news on a radio in his cell. | Joker bên radio |  |
+| 18 | And for the first time, he isn't laughing. | Nụ cười tắt · nhạc dừng 1 nhịp |  |
+| 19 | Here's the twist. The Joker won the bet. | Cán cân: nút bấm bên trái | THE TWIST |
+| 20 | But he lost the argument. | Hộp chưa bấm bên phải nặng xuống |  |
+| 21 | His experiment was supposed to prove everyone is a monster. | Joker chỉ vào đám đông |  |
+| 22 | Instead, it proved monsters aren't always who we think. | Đám đông quay sang nhìn tù nhân, ánh mắt đổi |  |
+| 23 | Year one. Gotham starts doing things that sounded crazy before. | Thành phố nắng sáng hơn | YEAR 1 |
+| 24 | People visit the prison. They write letters. | Phong bì bay qua song sắt |  |
+| 25 | Ferry passengers build a memorial on the harbor. No clown face. Just an empty box and a switch. | Đài tưởng niệm hình hộp và công tắc · hoa |  |
+| 26 | And the person who pressed the button? One night, they walk into a police station. | Bóng người không rõ mặt đẩy cửa đồn |  |
+| 27 | Three words: it was me. | Đặt tay lên bàn · im lặng |  |
+| 28 | No one cheers. But for the first time, Gotham listens. | Người que ngồi vòng tròn lắng nghe |  |
+| 29 | Batman watches from a rooftop. He couldn't stop the bet. But the city found its own answer. | Batman trên mái, thành phố đèn ấm |  |
+| 30 | Ten years later, kids on a school trip ride the ferry and ask what happened. | Học sinh mũ vàng trên phà nắng | 10 YEARS LATER |
+| 31 | Their teacher tells them about two boats, two buttons, one choice made in fear, and one made in mercy. | Cô giáo cầm 2 phà mô hình |  |
+| 32 | The Joker wanted to be remembered. Instead, Gotham remembers the man who threw a detonator into the river. | Tượng tù nhân ném hộp · Zeke đặt hoa |  |
+| 33 | So what's the lesson? Fear makes good people do terrible things. | Zeke trước bảng đen: sợ → hành động xấu |  |
+| 34 | But one act of trust can break the spell. | Vẽ: tin tưởng → xích đứt |  |
+| 35 | We face little ferries every day. A rumor about a coworker. A group chat turning on someone. | Văn phòng, người que thì thầm · điện thoại bong bóng chat (biểu tượng) |  |
+| 36 | We assume they'll press first, so we press ours. We call it self-defense. | 2 người que cầm nút, liếc nhau |  |
+| 37 | The braver move is to throw the detonator away, without knowing what the other boat will do. | Zeke ném hộp, nó hóa thành con chim bay |  |
+| 38 | That isn't weakness. It's the one thing the Joker never saw coming. | Joker nhìn bàn cờ đổ |  |
+| 39 | So be honest: if you were on that ferry, would you have raised your hand? | Zeke nhìn thẳng máy quay, tay giơ lửng | WOULD YOU? |
+| 40 | Tell me in the comments. And tell me which villain should win next. | Kéo lên toàn cảnh cảng đêm, 2 phà sáng đèn · thẻ kết |  |
 
 **Lời đọc gộp sẵn (dán vào công cụ tạo giọng):**
 ```text
+This box was never pressed.
 Previously: someone pressed the button, and the Joker broke Gotham's trust.
 But a diver just found something in the river.
 A small grey box. One switch.

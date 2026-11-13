@@ -1,6 +1,6 @@
 # What If the Joker Won? Kịch bản sản xuất cho Givemotion (3 phần)
 
-**16:9 · 1080p · 3 phần, tổng khoảng 7–8 phút · nhịp nhanh · lời đọc tiếng Anh**
+**16:9 · 1080p · 3 phần, tổng khoảng 7–8 phút · nhịp nhanh · lời đọc tiếng Anh · đã gắn hook 3 giây đầu · nhân vật thiết kế gốc**
 
 > ⚠️ **Givemotion không tạo được giọng đọc.** Mỗi phần cần một file giọng đọc riêng: `voiceover-p1.mp3`, `voiceover-p2.mp3`, `voiceover-p3.mp3`, làm bằng công cụ chuyển văn bản thành giọng nói hoặc tự thu.
 
@@ -15,16 +15,23 @@
 ---
 
 # 1. Nhân vật
-Các nhân vật **chỉ gợi** hình ảnh trong phim, không vẽ lại trang phục gốc và **không dùng biểu tượng** (logo dơi…). Không dùng ảnh, nhạc hay đoạn phim gốc.
+Tất cả là **nhân vật thiết kế gốc**: chỉ giữ **vai trò** trong câu chuyện, đã đổi màu sắc, tóc, trang phục và bỏ mọi biểu tượng. Lời đọc vẫn nhắc tên nhân vật để bình luận. **Không gõ tên nhân vật hay tên phim vào ChatGPT**, chỉ dán đúng prompt. Nếu bị từ chối, thêm câu *"This is an original character for a stick-figure animation."* hoặc mở cuộc trò chuyện mới.
+
+| Vai trong phim | Thiết kế gốc (đã đổi) |
+|---|---|
+| Joker | Gã hề: **áo khoác vá màu cam cháy, tóc bạc trắng dựng, hình thoi đen quanh mắt** (thay cho áo tím, tóc xanh, nụ cười đỏ) |
+| Batman | **Người gác đêm: áo choàng trùm đầu xanh navy, mặt nạ nửa mặt, khăn quàng xám**, không tai nhọn, không biểu tượng |
+| Gordon | **Cảnh sát trưởng: râu xám ngắn, mũ nồi, áo mưa xanh ô liu** |
+
 
 | Mã | Mô tả |
 |---|---|
 | `zeke` | Zeke: a minimalist stick figure with a hollow round white head and two black dot eyes, a bright red beanie (smooth rounded knit, no pom-pom), a yellow t-shirt, black shorts and thin black stick limbs. |
-| `joker` | Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. |
-| `batman` | Masked vigilante: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a plain dark-grey bodysuit, a black cowl covering the head with two short pointed ears (only the white lower face visible), a long black cape and a plain grey utility belt. No chest emblem. |
-| `gordon` | Police commissioner: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, middle-aged, thick grey-brown mustache, round glasses, a tan trench coat over a white shirt and brown tie. |
+| `joker` | Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. |
+| `batman` | Original character, the night guardian: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a dark-navy hooded cloak with the hood up, a simple plain half-mask over the eyes, a long grey scarf and plain dark boots. No ears on the hood, no emblem, no belt gadgets. |
+| `gordon` | Original character, the city chief: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, older, short grey beard, a flat cap, an olive-green raincoat over a grey sweater. |
 | `suit` | Businessman passenger: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, neatly combed dark hair, a dark-blue suit and tie. |
-| `inmate` | Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, an orange prison jumpsuit, calm serious expression. |
+| `inmate` | Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, a short dark beard, an orange prison jumpsuit, calm serious expression. |
 | `warden` | Prison warden: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, a dark-blue uniform with a peaked cap. |
 | `civilian` | Ferry passenger (crowd member): a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, short brown hair, a muted green jacket and grey trousers. (For variety, also make a version with a ponytail and a muted red coat.) |
 | `prisoner` | Prisoner (crowd member): a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, short dark hair, an orange prison jumpsuit. |
@@ -56,17 +63,17 @@ Character reference sheet: front, side and back views side by side at the same s
 
 **ref-joker.png**
 ```text
-Character reference sheet: front, side and back views side by side at the same scale. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
+Character reference sheet: front, side and back views side by side at the same scale. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
 ```
 
 **ref-batman.png**
 ```text
-Character reference sheet: front, side and back views side by side at the same scale. Masked vigilante: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a plain dark-grey bodysuit, a black cowl covering the head with two short pointed ears (only the white lower face visible), a long black cape and a plain grey utility belt. No chest emblem. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
+Character reference sheet: front, side and back views side by side at the same scale. Original character, the night guardian: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a dark-navy hooded cloak with the hood up, a simple plain half-mask over the eyes, a long grey scarf and plain dark boots. No ears on the hood, no emblem, no belt gadgets. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
 ```
 
 **ref-gordon.png**
 ```text
-Character reference sheet: front, side and back views side by side at the same scale. Police commissioner: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, middle-aged, thick grey-brown mustache, round glasses, a tan trench coat over a white shirt and brown tie. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
+Character reference sheet: front, side and back views side by side at the same scale. Original character, the city chief: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, older, short grey beard, a flat cap, an olive-green raincoat over a grey sweater. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
 ```
 
 **ref-suit.png**
@@ -76,7 +83,7 @@ Character reference sheet: front, side and back views side by side at the same s
 
 **ref-inmate.png**
 ```text
-Character reference sheet: front, side and back views side by side at the same scale. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, an orange prison jumpsuit, calm serious expression. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
+Character reference sheet: front, side and back views side by side at the same scale. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, a short dark beard, an orange prison jumpsuit, calm serious expression. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Plain transparent background. No text, no labels, no watermark.
 ```
 
 **ref-warden.png**
@@ -167,66 +174,66 @@ Keep exactly the same character design as the attached reference. Zeke: a minima
 
 **joker-arms-wide.png**
 ```text
-Keep exactly the same character design as the attached reference. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Pose: arms spread wide theatrically, grinning. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Pose: arms spread wide theatrically, grinning. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **joker-laugh.png**
 ```text
-Keep exactly the same character design as the attached reference. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Pose: head thrown back, laughing. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Pose: head thrown back, laughing. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **joker-sit.png**
 ```text
-Keep exactly the same character design as the attached reference. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Pose: sitting on a bench with legs crossed, smug smile. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Pose: sitting on a bench with legs crossed, smug smile. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **joker-chess.png**
 ```text
-Keep exactly the same character design as the attached reference. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Pose: holding a chess piece above a board, sly grin. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Pose: holding a chess piece above a board, sly grin. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **joker-frown.png**
 ```text
-Keep exactly the same character design as the attached reference. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Pose: frowning and annoyed, arms crossed. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Pose: frowning and annoyed, arms crossed. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **joker-point.png**
 ```text
-Keep exactly the same character design as the attached reference. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Pose: pointing accusingly forward. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Pose: pointing accusingly forward. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **joker-radio.png**
 ```text
-Keep exactly the same character design as the attached reference. Joker-inspired villain: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; pale white face with dark smudged rings around the eyes, a wide red painted smile drawn around the mouth, messy shoulder-length green hair, a long purple coat over a green vest, purple trousers. Suggestive cartoon design, not a copy of any film costume. Pose: sitting still and listening intently, no smile. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the grinning trickster: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs; chalk-white face with black diamond shapes painted over each eye, a thin black painted grin line, spiky silver-white hair, a long burnt-orange patchwork coat over a black-and-white striped shirt, black trousers. Pose: sitting still and listening intently, no smile. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 ### batman (đính kèm `ref-batman.png`)
 
 **batman-run.png**
 ```text
-Keep exactly the same character design as the attached reference. Masked vigilante: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a plain dark-grey bodysuit, a black cowl covering the head with two short pointed ears (only the white lower face visible), a long black cape and a plain grey utility belt. No chest emblem. Pose: running in side view facing right, cape flowing. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the night guardian: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a dark-navy hooded cloak with the hood up, a simple plain half-mask over the eyes, a long grey scarf and plain dark boots. No ears on the hood, no emblem, no belt gadgets. Pose: running in side view facing right, cape flowing. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **batman-watch.png**
 ```text
-Keep exactly the same character design as the attached reference. Masked vigilante: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a plain dark-grey bodysuit, a black cowl covering the head with two short pointed ears (only the white lower face visible), a long black cape and a plain grey utility belt. No chest emblem. Pose: crouching on a ledge, watching, cape draped. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the night guardian: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, wearing a dark-navy hooded cloak with the hood up, a simple plain half-mask over the eyes, a long grey scarf and plain dark boots. No ears on the hood, no emblem, no belt gadgets. Pose: crouching on a ledge, watching, cape draped. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 ### gordon (đính kèm `ref-gordon.png`)
 
 **gordon-desk.png**
 ```text
-Keep exactly the same character design as the attached reference. Police commissioner: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, middle-aged, thick grey-brown mustache, round glasses, a tan trench coat over a white shirt and brown tie. Pose: sitting at a desk, looking down at something. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the city chief: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, older, short grey beard, a flat cap, an olive-green raincoat over a grey sweater. Pose: sitting at a desk, looking down at something. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **gordon-glasses-off.png**
 ```text
-Keep exactly the same character design as the attached reference. Police commissioner: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, middle-aged, thick grey-brown mustache, round glasses, a tan trench coat over a white shirt and brown tie. Pose: taking off his glasses with a thoughtful expression. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the city chief: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, older, short grey beard, a flat cap, an olive-green raincoat over a grey sweater. Pose: taking off his glasses with a thoughtful expression. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **gordon-press.png**
 ```text
-Keep exactly the same character design as the attached reference. Police commissioner: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, middle-aged, thick grey-brown mustache, round glasses, a tan trench coat over a white shirt and brown tie. Pose: standing and holding up a small grey box toward the viewer. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Original character, the city chief: a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, older, short grey beard, a flat cap, an olive-green raincoat over a grey sweater. Pose: standing and holding up a small grey box toward the viewer. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 ### suit (đính kèm `ref-suit.png`)
@@ -250,17 +257,17 @@ Keep exactly the same character design as the attached reference. Businessman pa
 
 **inmate-walk.png**
 ```text
-Keep exactly the same character design as the attached reference. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, an orange prison jumpsuit, calm serious expression. Pose: walking forward calmly in side view facing left. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, a short dark beard, an orange prison jumpsuit, calm serious expression. Pose: walking forward calmly in side view facing left. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **inmate-throw.png**
 ```text
-Keep exactly the same character design as the attached reference. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, an orange prison jumpsuit, calm serious expression. Pose: throwing a small grey box with one arm toward the side. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, a short dark beard, an orange prison jumpsuit, calm serious expression. Pose: throwing a small grey box with one arm toward the side. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 **inmate-sit.png**
 ```text
-Keep exactly the same character design as the attached reference. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, an orange prison jumpsuit, calm serious expression. Pose: sitting on a bench with arms crossed. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
+Keep exactly the same character design as the attached reference. Big inmate: a very large, tall, broad-shouldered version of a minimalist stick figure with a round white head, black dot eyes and thin black stick arms and legs, shaved head, a short dark beard, an orange prison jumpsuit, calm serious expression. Pose: sitting on a bench with arms crossed. Minimalist 2D vector cartoon, simple clean black outlines, flat colors with a slightly dark cinematic mood, minimal black dot eyes with simple brow lines for expression, smooth shapes, no realistic texture, no logos or emblems. Full body, isolated on a transparent background, no ground shadow, no scenery, centered with margin. No text, no letters, no watermark.
 ```
 
 ### warden (đính kèm `ref-warden.png`)
@@ -616,7 +623,7 @@ A high aerial view of the harbor at night with two lit ferries on dark water and
 
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
-| 1 | Two ferries. Two bombs. One deal from the Joker. | bg-harbor-night · prop-ferry-civ · prop-ferry-prison | Đêm, cảng sương mù, 2 phà sáng đèn · zoom nhanh | JOKER'S BET |
+| 1 | Two boats. One button. Eleven fifty-nine. | bg-void-dark · prop-clock · prop-ferry-civ · prop-ferry-prison · prop-hand-reach | HOOK 0–3s: HIT ở 0,0s · đồng hồ (không số) tích tắc, cắt nhanh phà trái → phà phải → ngón tay trên công tắc | 11:59 |
 | 2 | And tonight, someone actually pushes the button. | bg-void-dark · prop-hand-reach · prop-detonator | Cận ngón tay lơ lửng trên công tắc · nhịp trống dội |  |
 | 3 | In The Dark Knight, the Joker had one goal: prove that scared people become monsters. | bg-gotham-night · joker-arms-wide · civilian-walk | Joker xòe tay cười · bóng người thường kéo dài thành bóng quái vật |  |
 | 4 | So he trapped two ferries in Gotham Harbor. | bg-harbor-map · prop-ferry-civ · prop-ferry-prison · prop-chain | 2 phà trên bản đồ cảng, xích trói xuất hiện |  |
@@ -649,7 +656,7 @@ A high aerial view of the harbor at night with two lit ferries on dark water and
 
 **Lời đọc gộp sẵn:**
 ```text
-Two ferries. Two bombs. One deal from the Joker.
+Two boats. One button. Eleven fifty-nine.
 And tonight, someone actually pushes the button.
 In The Dark Knight, the Joker had one goal: prove that scared people become monsters.
 So he trapped two ferries in Gotham Harbor.
@@ -685,42 +692,44 @@ He thinks he just won. But the river is hiding something. Part two is next.
 
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
-| 1 | Previously: the Joker's ferry bet. Someone pressed the button. | bg-harbor-night · 2 phà · prop-hand-reach · prop-ferry-dark | Tua nhanh 3 hình: 2 phà, bàn tay, đèn tắt | PREVIOUSLY |
-| 2 | Now Gotham wakes up, and nothing feels the same. | bg-gotham-morning | Bình minh xám trên Gotham |  |
-| 3 | Morning. Grey sky. Quiet streets. | bg-city-street | Lia nhanh qua phố vắng |  |
-| 4 | Nobody knows exactly who pressed the button. | bg-city-street · civilian-walk ×4 | Đám đông bước, đầu cúi |  |
-| 5 | But everyone knows someone did. | bg-city-street · civilian-walk ×2 | Mỗi người que liếc nhau |  |
-| 6 | Batman caught the Joker that night. It doesn't feel like a win. | bg-rooftop-night · batman-watch | Batman trên mái, vai trĩu |  |
-| 7 | Because the Joker already got what he wanted. | bg-cell · joker-sit | Joker trong xà lim, vắt chân |  |
-| 8 | From his cell, he doesn't need bombs anymore. His message is out there: | bg-gotham-morning · prop-smile-icon ×4 | Mặt cười lan ra các màn hình thành phố |  |
-| 9 | You're no better than me. | bg-cell · joker-laugh (phóng cận) | Cận nụ cười Joker · nhạc dội | NO BETTER THAN ME |
-| 10 | The passengers go home. They don't talk about the vote. | bg-ferry-terminal · civilian-walk ×3 | Hành khách rời bến, quay lưng nhau |  |
-| 11 | They don't look each other in the eye. | bg-city-street · civilian-walk ×2 | Hai người que đi ngang, cùng nhìn xuống |  |
-| 12 | And every single one of them asks the same question: did I raise my hand? | bg-void-dark · zeke-look-hand | Zeke nhìn bàn tay mình · bóng tay giơ trên tường |  |
-| 13 | That's the Joker's real genius. He didn't need to destroy Gotham. | bg-void-dark · joker-chess · prop-chessboard | Joker đặt quân cờ lên bàn cờ thành phố |  |
-| 14 | He just needed Gotham to doubt itself. | bg-void-dark · prop-broken-mirror | Gương vỡ phản chiếu thành phố |  |
-| 15 | Week one. Nobody rides the ferries. | bg-ferry-terminal | Bến phà vắng tanh | WEEK 1 |
-| 16 | Neighbors lock their doors. Strangers become threats. | bg-city-street · prop-padlock ×3 · civilian-scared | Ổ khóa bật lên liên tiếp · người lạ liếc nhau |  |
-| 17 | Clown faces start showing up on walls and screens. Copycats. | bg-city-street · prop-smile-icon | Hình mặt cười hiện lên tường, nhanh dần |  |
-| 18 | They don't need a plan. They just need people to believe the Joker was right. | bg-city-street · civilian-scared ×3 | Đám đông xem màn hình, im lặng |  |
-| 19 | The city answers with more walls. More cameras. More checkpoints. | bg-city-street · prop-camera-pole · prop-barrier | Tường, camera, rào chắn mọc theo nhịp |  |
-| 20 | Everyone is watched. Nobody feels safer. | bg-city-street · zeke-hands-up | Zeke bị đèn soi, giơ tay |  |
-| 21 | Here's the thing about fear. It doesn't just make you act badly. | bg-chalkboard · zeke-chalk | Zeke cầm phấn trước bảng đen |  |
-| 22 | It convinces you that everyone else will act worse. | bg-chalkboard · zeke-chalk · civilian-scared ×2 | Vẽ 2 người que, bong bóng nghĩ đầu kia là quái vật |  |
-| 23 | There's a name for this trap: the prisoner's dilemma. | bg-chalkboard · prop-dilemma-grid | Bảng 2×2 biểu tượng bật lên | PRISONER'S DILEMMA |
-| 24 | Two sides. Neither can trust the other. So betrayal starts to look logical. | bg-chalkboard · prop-dilemma-grid · zeke-chalk | Mũi tên trỏ vào ô 'cả hai phản bội' |  |
-| 25 | The Joker built the ferries as a perfect prisoner's dilemma. | bg-harbor-map · prop-ferry-civ · prop-ferry-prison | Bảng 2×2 biến thành 2 phà |  |
-| 26 | And the prize was the soul of the city. | bg-void-dark · joker-chess · prop-heart-city | Joker cầm trái tim thành phố (biểu tượng) như quân cờ |  |
-| 27 | Gotham's hero, Harvey Dent, once promised a city that could trust itself. Now that promise sounds like a joke. | bg-city-street · prop-poster-hope | Áp phích hy vọng (không chữ) bị gió xé |  |
-| 28 | Month three. Gotham is still standing. | bg-city-snow | Tuyết rơi trên thành phố | MONTH 3 |
-| 29 | But it's colder. Quieter. Like everyone carries an invisible detonator in their pocket. | bg-city-snow · civilian-walk ×3 (túi áo phát sáng) | Túi áo người qua đường phát sáng hình hộp |  |
-| 30 | The Joker sits in his cell, smiling. He thinks the story is over. | bg-cell · joker-sit | Joker cười, camera lùi |  |
-| 31 | Month four. A diver is clearing the harbor, right where the prison ferry was anchored. | bg-underwater · diver-light | Dưới nước, thợ lặn rọi đèn | MONTH 4 |
-| 32 | His light hits something in the mud. A small grey box. | bg-underwater · diver-light · prop-detonator | Đèn chiếu trúng hộp xám · zoom gấp |  |
-| 33 | And it changes everything. Part three is next. | bg-underwater · prop-detonator | Thẻ kết | PART 3 → |
+| 1 | Your neighbor might have pressed it. | bg-city-street · prop-padlock · civilian-hold-button ×3 | HOOK 0–3s: HIT · hàng xóm khóa cửa, liếc nhìn; túi áo mọi người phát sáng hình chiếc hộp | WAS IT YOU? |
+| 2 | Previously: the Joker's ferry bet. Someone pressed the button. | bg-harbor-night · 2 phà · prop-hand-reach · prop-ferry-dark | Tua nhanh 3 hình: 2 phà, bàn tay, đèn tắt | PREVIOUSLY |
+| 3 | Now Gotham wakes up, and nothing feels the same. | bg-gotham-morning | Bình minh xám trên Gotham |  |
+| 4 | Morning. Grey sky. Quiet streets. | bg-city-street | Lia nhanh qua phố vắng |  |
+| 5 | Nobody knows exactly who pressed the button. | bg-city-street · civilian-walk ×4 | Đám đông bước, đầu cúi |  |
+| 6 | But everyone knows someone did. | bg-city-street · civilian-walk ×2 | Mỗi người que liếc nhau |  |
+| 7 | Batman caught the Joker that night. It doesn't feel like a win. | bg-rooftop-night · batman-watch | Batman trên mái, vai trĩu |  |
+| 8 | Because the Joker already got what he wanted. | bg-cell · joker-sit | Joker trong xà lim, vắt chân |  |
+| 9 | From his cell, he doesn't need bombs anymore. His message is out there: | bg-gotham-morning · prop-smile-icon ×4 | Mặt cười lan ra các màn hình thành phố |  |
+| 10 | You're no better than me. | bg-cell · joker-laugh (phóng cận) | Cận nụ cười Joker · nhạc dội | NO BETTER THAN ME |
+| 11 | The passengers go home. They don't talk about the vote. | bg-ferry-terminal · civilian-walk ×3 | Hành khách rời bến, quay lưng nhau |  |
+| 12 | They don't look each other in the eye. | bg-city-street · civilian-walk ×2 | Hai người que đi ngang, cùng nhìn xuống |  |
+| 13 | And every single one of them asks the same question: did I raise my hand? | bg-void-dark · zeke-look-hand | Zeke nhìn bàn tay mình · bóng tay giơ trên tường |  |
+| 14 | That's the Joker's real genius. He didn't need to destroy Gotham. | bg-void-dark · joker-chess · prop-chessboard | Joker đặt quân cờ lên bàn cờ thành phố |  |
+| 15 | He just needed Gotham to doubt itself. | bg-void-dark · prop-broken-mirror | Gương vỡ phản chiếu thành phố |  |
+| 16 | Week one. Nobody rides the ferries. | bg-ferry-terminal | Bến phà vắng tanh | WEEK 1 |
+| 17 | Neighbors lock their doors. Strangers become threats. | bg-city-street · prop-padlock ×3 · civilian-scared | Ổ khóa bật lên liên tiếp · người lạ liếc nhau |  |
+| 18 | Clown faces start showing up on walls and screens. Copycats. | bg-city-street · prop-smile-icon | Hình mặt cười hiện lên tường, nhanh dần |  |
+| 19 | They don't need a plan. They just need people to believe the Joker was right. | bg-city-street · civilian-scared ×3 | Đám đông xem màn hình, im lặng |  |
+| 20 | The city answers with more walls. More cameras. More checkpoints. | bg-city-street · prop-camera-pole · prop-barrier | Tường, camera, rào chắn mọc theo nhịp |  |
+| 21 | Everyone is watched. Nobody feels safer. | bg-city-street · zeke-hands-up | Zeke bị đèn soi, giơ tay |  |
+| 22 | Here's the thing about fear. It doesn't just make you act badly. | bg-chalkboard · zeke-chalk | Zeke cầm phấn trước bảng đen |  |
+| 23 | It convinces you that everyone else will act worse. | bg-chalkboard · zeke-chalk · civilian-scared ×2 | Vẽ 2 người que, bong bóng nghĩ đầu kia là quái vật |  |
+| 24 | There's a name for this trap: the prisoner's dilemma. | bg-chalkboard · prop-dilemma-grid | Bảng 2×2 biểu tượng bật lên | PRISONER'S DILEMMA |
+| 25 | Two sides. Neither can trust the other. So betrayal starts to look logical. | bg-chalkboard · prop-dilemma-grid · zeke-chalk | Mũi tên trỏ vào ô 'cả hai phản bội' |  |
+| 26 | The Joker built the ferries as a perfect prisoner's dilemma. | bg-harbor-map · prop-ferry-civ · prop-ferry-prison | Bảng 2×2 biến thành 2 phà |  |
+| 27 | And the prize was the soul of the city. | bg-void-dark · joker-chess · prop-heart-city | Joker cầm trái tim thành phố (biểu tượng) như quân cờ |  |
+| 28 | Gotham's hero, Harvey Dent, once promised a city that could trust itself. Now that promise sounds like a joke. | bg-city-street · prop-poster-hope | Áp phích hy vọng (không chữ) bị gió xé |  |
+| 29 | Month three. Gotham is still standing. | bg-city-snow | Tuyết rơi trên thành phố | MONTH 3 |
+| 30 | But it's colder. Quieter. Like everyone carries an invisible detonator in their pocket. | bg-city-snow · civilian-walk ×3 (túi áo phát sáng) | Túi áo người qua đường phát sáng hình hộp |  |
+| 31 | The Joker sits in his cell, smiling. He thinks the story is over. | bg-cell · joker-sit | Joker cười, camera lùi |  |
+| 32 | Month four. A diver is clearing the harbor, right where the prison ferry was anchored. | bg-underwater · diver-light | Dưới nước, thợ lặn rọi đèn | MONTH 4 |
+| 33 | His light hits something in the mud. A small grey box. | bg-underwater · diver-light · prop-detonator | Đèn chiếu trúng hộp xám · zoom gấp |  |
+| 34 | And it changes everything. Part three is next. | bg-underwater · prop-detonator | Thẻ kết | PART 3 → |
 
 **Lời đọc gộp sẵn:**
 ```text
+Your neighbor might have pressed it.
 Previously: the Joker's ferry bet. Someone pressed the button.
 Now Gotham wakes up, and nothing feels the same.
 Morning. Grey sky. Quiet streets.
@@ -760,48 +769,50 @@ And it changes everything. Part three is next.
 
 | # | Lời đọc | Ảnh sử dụng | Chuyển động | Chữ trên hình |
 |---|---|---|---|---|
-| 1 | Previously: someone pressed the button, and the Joker broke Gotham's trust. | bg-void-dark · prop-hand-reach · prop-padlock · prop-smile-icon | Tua nhanh: bàn tay, ổ khóa, mặt cười | PREVIOUSLY |
-| 2 | But a diver just found something in the river. | bg-underwater · diver-lift | Thợ lặn nhấc hộp khỏi bùn |  |
-| 3 | A small grey box. One switch. | bg-void-dark · prop-detonator | Cận hộp xoay chậm |  |
-| 4 | The second detonator. The one meant for the civilians. | bg-harbor-map · prop-detonator · prop-ferry-civ | Mũi tên từ hộp chỉ về phà dân thường |  |
-| 5 | The switch has never been pressed. The safety is still on. | bg-void-dark · prop-detonator (phóng cận) | Cận nắp an toàn đóng |  |
-| 6 | It hit the water before midnight. | bg-harbor-night · prop-detonator · prop-clock | Tua lại: hộp rơi xuống nước, đồng hồ chưa tới 12 |  |
-| 7 | Commissioner Gordon stares at it for a long time. | bg-gordon-office · gordon-desk · prop-detonator | Gordon, hộp trên bàn, đèn vàng |  |
-| 8 | Then he understands. | bg-gordon-office · gordon-glasses-off | Gordon tháo kính |  |
-| 9 | The prisoners had the power to save themselves. | bg-cabin-prison · inmate-walk · warden-hold-box | Hồi tưởng: tù nhân cầm hộp |  |
-| 10 | They chose not to use it. | bg-cabin-prison · inmate-throw | Ném qua cửa sổ |  |
-| 11 | They gave the civilians their lives. | bg-harbor-night · prop-ferry-civ | Phà dân thường sáng đèn ấm |  |
-| 12 | Gordon walks out in front of the cameras, and tells Gotham the truth. | bg-press-room · gordon-press | Họp báo, đèn flash dồn dập |  |
-| 13 | The people we called monsters were the ones who chose mercy. | bg-void-dark · prop-monster-mask · inmate-sit | Mặt nạ quái vật rơi khỏi bóng tù nhân | THEY CHOSE MERCY |
-| 14 | The city goes silent again. But this time, it isn't fear. | bg-living-room · civilian-tv | Người que xem TV trong nhà |  |
-| 15 | It's shame. And shame can change people. | bg-gotham-night (đèn cửa sổ bật dần) | Đèn cửa sổ bật sáng dần |  |
-| 16 | The Joker hears the news on a radio in his cell. | bg-cell · joker-radio · prop-radio | Joker bên radio |  |
-| 17 | And for the first time, he isn't laughing. | bg-cell · joker-radio (phóng cận) | Nụ cười tắt · nhạc dừng 1 nhịp |  |
-| 18 | Here's the twist. The Joker won the bet. | bg-void-dark · prop-scale · prop-hand-reach | Cán cân: nút bấm bên trái | THE TWIST |
-| 19 | But he lost the argument. | bg-void-dark · prop-scale · prop-detonator | Hộp chưa bấm bên phải nặng xuống |  |
-| 20 | His experiment was supposed to prove everyone is a monster. | bg-void-dark · joker-point · civilian-scared ×3 | Joker chỉ vào đám đông |  |
-| 21 | Instead, it proved monsters aren't always who we think. | bg-void-dark · civilian-scared ×3 · inmate-sit | Đám đông quay sang nhìn tù nhân, ánh mắt đổi |  |
-| 22 | Year one. Gotham starts doing things that sounded crazy before. | bg-city-street-day | Thành phố nắng sáng hơn | YEAR 1 |
-| 23 | People visit the prison. They write letters. | bg-visiting-room · prop-envelope · civilian-walk | Phong bì bay qua song sắt |  |
-| 24 | Ferry passengers build a memorial on the harbor. No clown face. Just an empty box and a switch. | bg-harbor-memorial | Đài tưởng niệm hình hộp và công tắc · hoa |  |
-| 25 | And the person who pressed the button? One night, they walk into a police station. | bg-police-door · shadow-door | Bóng người không rõ mặt đẩy cửa đồn |  |
-| 26 | Three words: it was me. | bg-police-door · shadow-door | Đặt tay lên bàn · im lặng |  |
-| 27 | No one cheers. But for the first time, Gotham listens. | bg-living-room · civilian-listen ×5 | Người que ngồi vòng tròn lắng nghe |  |
-| 28 | Batman watches from a rooftop. He couldn't stop the bet. But the city found its own answer. | bg-rooftop-night · batman-watch | Batman trên mái, thành phố đèn ấm |  |
-| 29 | Ten years later, kids on a school trip ride the ferry and ask what happened. | bg-harbor-memorial · kids-group · teacher-models | Học sinh mũ vàng trên phà nắng | 10 YEARS LATER |
-| 30 | Their teacher tells them about two boats, two buttons, one choice made in fear, and one made in mercy. | bg-harbor-memorial · teacher-models | Cô giáo cầm 2 phà mô hình |  |
-| 31 | The Joker wanted to be remembered. Instead, Gotham remembers the man who threw a detonator into the river. | bg-harbor-memorial · zeke-flowers | Tượng tù nhân ném hộp · Zeke đặt hoa |  |
-| 32 | So what's the lesson? Fear makes good people do terrible things. | bg-chalkboard · zeke-chalk | Zeke trước bảng đen: sợ → hành động xấu |  |
-| 33 | But one act of trust can break the spell. | bg-chalkboard · zeke-chalk · prop-chain | Vẽ: tin tưởng → xích đứt |  |
-| 34 | We face little ferries every day. A rumor about a coworker. A group chat turning on someone. | bg-office · civilian-whisper ×2 · prop-phone-chat | Văn phòng, người que thì thầm · điện thoại bong bóng chat (biểu tượng) |  |
-| 35 | We assume they'll press first, so we press ours. We call it self-defense. | bg-office · civilian-hold-button ×2 | 2 người que cầm nút, liếc nhau |  |
-| 36 | The braver move is to throw the detonator away, without knowing what the other boat will do. | bg-void-dark · zeke-throw · prop-detonator · prop-bird | Zeke ném hộp, nó hóa thành con chim bay |  |
-| 37 | That isn't weakness. It's the one thing the Joker never saw coming. | bg-void-dark · joker-frown · prop-chessboard | Joker nhìn bàn cờ đổ |  |
-| 38 | So be honest: if you were on that ferry, would you have raised your hand? | bg-void-dark · zeke-raise-hand | Zeke nhìn thẳng máy quay, tay giơ lửng | WOULD YOU? |
-| 39 | Tell me in the comments. And tell me which villain should win next. | bg-harbor-aerial | Kéo lên toàn cảnh cảng đêm, 2 phà sáng đèn · thẻ kết |  |
+| 1 | This box was never pressed. | bg-underwater · diver-lift · prop-detonator (cận nắp an toàn) | HOOK 0–3s: HIT · thợ lặn nhấc hộp khỏi bùn, phóng cận nắp an toàn còn đóng | NEVER PRESSED |
+| 2 | Previously: someone pressed the button, and the Joker broke Gotham's trust. | bg-void-dark · prop-hand-reach · prop-padlock · prop-smile-icon | Tua nhanh: bàn tay, ổ khóa, mặt cười | PREVIOUSLY |
+| 3 | But a diver just found something in the river. | bg-underwater · diver-lift | Thợ lặn nhấc hộp khỏi bùn |  |
+| 4 | A small grey box. One switch. | bg-void-dark · prop-detonator | Cận hộp xoay chậm |  |
+| 5 | The second detonator. The one meant for the civilians. | bg-harbor-map · prop-detonator · prop-ferry-civ | Mũi tên từ hộp chỉ về phà dân thường |  |
+| 6 | The switch has never been pressed. The safety is still on. | bg-void-dark · prop-detonator (phóng cận) | Cận nắp an toàn đóng |  |
+| 7 | It hit the water before midnight. | bg-harbor-night · prop-detonator · prop-clock | Tua lại: hộp rơi xuống nước, đồng hồ chưa tới 12 |  |
+| 8 | Commissioner Gordon stares at it for a long time. | bg-gordon-office · gordon-desk · prop-detonator | Gordon, hộp trên bàn, đèn vàng |  |
+| 9 | Then he understands. | bg-gordon-office · gordon-glasses-off | Gordon tháo kính |  |
+| 10 | The prisoners had the power to save themselves. | bg-cabin-prison · inmate-walk · warden-hold-box | Hồi tưởng: tù nhân cầm hộp |  |
+| 11 | They chose not to use it. | bg-cabin-prison · inmate-throw | Ném qua cửa sổ |  |
+| 12 | They gave the civilians their lives. | bg-harbor-night · prop-ferry-civ | Phà dân thường sáng đèn ấm |  |
+| 13 | Gordon walks out in front of the cameras, and tells Gotham the truth. | bg-press-room · gordon-press | Họp báo, đèn flash dồn dập |  |
+| 14 | The people we called monsters were the ones who chose mercy. | bg-void-dark · prop-monster-mask · inmate-sit | Mặt nạ quái vật rơi khỏi bóng tù nhân | THEY CHOSE MERCY |
+| 15 | The city goes silent again. But this time, it isn't fear. | bg-living-room · civilian-tv | Người que xem TV trong nhà |  |
+| 16 | It's shame. And shame can change people. | bg-gotham-night (đèn cửa sổ bật dần) | Đèn cửa sổ bật sáng dần |  |
+| 17 | The Joker hears the news on a radio in his cell. | bg-cell · joker-radio · prop-radio | Joker bên radio |  |
+| 18 | And for the first time, he isn't laughing. | bg-cell · joker-radio (phóng cận) | Nụ cười tắt · nhạc dừng 1 nhịp |  |
+| 19 | Here's the twist. The Joker won the bet. | bg-void-dark · prop-scale · prop-hand-reach | Cán cân: nút bấm bên trái | THE TWIST |
+| 20 | But he lost the argument. | bg-void-dark · prop-scale · prop-detonator | Hộp chưa bấm bên phải nặng xuống |  |
+| 21 | His experiment was supposed to prove everyone is a monster. | bg-void-dark · joker-point · civilian-scared ×3 | Joker chỉ vào đám đông |  |
+| 22 | Instead, it proved monsters aren't always who we think. | bg-void-dark · civilian-scared ×3 · inmate-sit | Đám đông quay sang nhìn tù nhân, ánh mắt đổi |  |
+| 23 | Year one. Gotham starts doing things that sounded crazy before. | bg-city-street-day | Thành phố nắng sáng hơn | YEAR 1 |
+| 24 | People visit the prison. They write letters. | bg-visiting-room · prop-envelope · civilian-walk | Phong bì bay qua song sắt |  |
+| 25 | Ferry passengers build a memorial on the harbor. No clown face. Just an empty box and a switch. | bg-harbor-memorial | Đài tưởng niệm hình hộp và công tắc · hoa |  |
+| 26 | And the person who pressed the button? One night, they walk into a police station. | bg-police-door · shadow-door | Bóng người không rõ mặt đẩy cửa đồn |  |
+| 27 | Three words: it was me. | bg-police-door · shadow-door | Đặt tay lên bàn · im lặng |  |
+| 28 | No one cheers. But for the first time, Gotham listens. | bg-living-room · civilian-listen ×5 | Người que ngồi vòng tròn lắng nghe |  |
+| 29 | Batman watches from a rooftop. He couldn't stop the bet. But the city found its own answer. | bg-rooftop-night · batman-watch | Batman trên mái, thành phố đèn ấm |  |
+| 30 | Ten years later, kids on a school trip ride the ferry and ask what happened. | bg-harbor-memorial · kids-group · teacher-models | Học sinh mũ vàng trên phà nắng | 10 YEARS LATER |
+| 31 | Their teacher tells them about two boats, two buttons, one choice made in fear, and one made in mercy. | bg-harbor-memorial · teacher-models | Cô giáo cầm 2 phà mô hình |  |
+| 32 | The Joker wanted to be remembered. Instead, Gotham remembers the man who threw a detonator into the river. | bg-harbor-memorial · zeke-flowers | Tượng tù nhân ném hộp · Zeke đặt hoa |  |
+| 33 | So what's the lesson? Fear makes good people do terrible things. | bg-chalkboard · zeke-chalk | Zeke trước bảng đen: sợ → hành động xấu |  |
+| 34 | But one act of trust can break the spell. | bg-chalkboard · zeke-chalk · prop-chain | Vẽ: tin tưởng → xích đứt |  |
+| 35 | We face little ferries every day. A rumor about a coworker. A group chat turning on someone. | bg-office · civilian-whisper ×2 · prop-phone-chat | Văn phòng, người que thì thầm · điện thoại bong bóng chat (biểu tượng) |  |
+| 36 | We assume they'll press first, so we press ours. We call it self-defense. | bg-office · civilian-hold-button ×2 | 2 người que cầm nút, liếc nhau |  |
+| 37 | The braver move is to throw the detonator away, without knowing what the other boat will do. | bg-void-dark · zeke-throw · prop-detonator · prop-bird | Zeke ném hộp, nó hóa thành con chim bay |  |
+| 38 | That isn't weakness. It's the one thing the Joker never saw coming. | bg-void-dark · joker-frown · prop-chessboard | Joker nhìn bàn cờ đổ |  |
+| 39 | So be honest: if you were on that ferry, would you have raised your hand? | bg-void-dark · zeke-raise-hand | Zeke nhìn thẳng máy quay, tay giơ lửng | WOULD YOU? |
+| 40 | Tell me in the comments. And tell me which villain should win next. | bg-harbor-aerial | Kéo lên toàn cảnh cảng đêm, 2 phà sáng đèn · thẻ kết |  |
 
 **Lời đọc gộp sẵn:**
 ```text
+This box was never pressed.
 Previously: someone pressed the button, and the Joker broke Gotham's trust.
 But a diver just found something in the river.
 A small grey box. One switch.
@@ -877,7 +888,7 @@ Dán đoạn dưới cho **từng phần**, thay `N` bằng 1, 2 hoặc 3.
 Build Part N of a 3-part 16:9, 1080p, 30fps video with givemotion from this folder.
 - Read script.md: section 1 (characters), section 3 "Phần N" table (narration line, assets, motion, overlay text).
 - audio/voiceover-pN.mp3 is the master timeline. Run `givemotion words` on it and give each table row exactly the duration of its narration line (typically 3-6 s). Add a 0.5-1 s silent beat only where the motion column asks for silence.
-- FAST PACING: something must visibly change every 2-3 s (punch-in zoom, quick pan, pop-in, pose swap by quick cross-fade, shake on impact lines). The first 3 s must open with strong motion, no logo intro. Use quick cuts or whip transitions between rows; no slow fades except where noted.
+- FAST PACING: something must visibly change every 2-3 s (punch-in zoom, quick pan, pop-in, pose swap by quick cross-fade, shake on impact lines). HOOK (row 1): impact sound at 0.0 s, first frame already in motion (no logo, no fade-in), overlay pops at ~1.2 s, hard cut before 3.0 s; row 1's first frame doubles as the thumbnail. Use quick cuts or whip transitions between rows; no slow fades except where noted.
 - Visuals: background from images/bg (cover-fit 16:9, split screen where the table says "|"); layer transparent PNGs from images/chars and images/props as listed in the "Ảnh sử dụng" column; "×3" means duplicate that layer with slight offsets and staggered entrances.
 - Keep screen direction: civilian ferry on the LEFT, prison ferry on the RIGHT.
 - Overlays: the "Chữ trên hình" text as bold pop-up title cards (e.g. Bebas Neue, white with dark shadow), max ~1.5 s, top-left area. Word-synced English captions at the bottom, one line.
