@@ -7,7 +7,14 @@ Kênh YouTube người que, lời đọc tiếng Anh, bình luận theo kiểu "
 - **Không xây video quanh một cá nhân.** Lãnh đạo chỉ được nhắc ngắn bằng chức danh hoặc tên khi cần cho đúng sử ("the Great Khan", "the Persian king"), không làm nhân vật chính, không vẽ chân dung nhận diện được.
 - **Góc nhìn qua người bình thường hư cấu** ("nhân chứng hư cấu"): một ngư dân, một người chèo thuyền, một lính trơn, một người buôn. Nhân vật này **ghi rõ là hư cấu** và phải hợp với thời đại.
 - **Phần lịch sử phải đúng và có nguồn:** đánh dấu trên màn hình bằng thẻ **HISTORY** (kèm nguồn ngắn, ví dụ "Source: Herodotus, Histories VIII") và **WHAT IF** khi bắt đầu phần giả tưởng. Mục Sources đặt trong mô tả. Kịch bản "What if" phải hợp lý trước một nhà sử học khó tính (độ hợp lý, tốc độ truyền tin, hậu cần).
-- **Không mô tả một dân tộc hay quốc gia ngày nay là phe ác.** Kể trung lập như chuyện của các đế chế trong quá khứ. Tránh các xung đột hiện đại hoặc còn nhạy cảm.
+- **Không mô tả một dân tộc hay quốc gia ngày nay là phe ác.** Kể trung lập như chuyện của các đế chế trong quá khứ. Tránh các xung đột sau 1945 hoặc còn nhạy cảm.
+- **Công thức "đổi một quyết định":** mỗi tập lấy một sự kiện ai cũng biết, đổi đúng **một** quyết định hoặc một sự việc có trong sử liệu (ví dụ "What If Pearl Harbor Got the Warning?", "What If the Storm Never Came in 1281?"), rồi lần theo hậu quả. Khuôn tiêu đề cố định: **"What If …?"**.
+- **Thế chiến II được phép làm (người dùng mở ngày 14/11/2026)**, với các điều kiện:
+  - Kể theo **các đạo quân, hạm đội, quyết định quân sự và hậu cần**. Không vẽ lãnh đạo (Hitler, Tojo, Stalin, Churchill, Roosevelt…) và không đặt tên họ lên thumbnail hay tiêu đề.
+  - **Không có biểu tượng phát xít** (chữ vạn, SS, cờ Mặt trời mọc quân đội) trong ảnh, video hay thumbnail. Dùng màu trung tính, bản đồ, mũi tên, hình bóng thiết bị.
+  - **Không tôn vinh hay "cổ vũ" phe Trục.** Nếu phe Trục thắng trong kịch bản, video phải nói rõ cái giá con người. Không lấy Holocaust hay tội ác chiến tranh làm chất liệu giải trí; nhắc đến thì nghiêm túc, ngắn gọn, đúng sự thật.
+  - Không chiếu thương vong, không dùng phim tư liệu có cảnh chết chóc. Chấp nhận rủi ro bị hạn chế quảng cáo; báo cho người dùng khi một tập có rủi ro cao.
+  - Dữ kiện phải có nguồn (thẻ HISTORY), vì chủ đề này bị soi kỹ nhất.
 - **Chống lỗi thời đại**, kể cả trong suy nghĩ của nhân vật. Bài học hiện đại chỉ do người dẫn chuyện nói ở cuối video, lộ ra từ hậu quả.
 - **Tư liệu:** dữ kiện và nguồn cổ không có bản quyền. Không chép câu chữ từ sách hay phim tài liệu hiện đại. Tranh và bản đồ cổ lấy từ Wikimedia Commons có nhãn PD, ghi credit. Không dùng clip phim tài liệu.
 - An toàn quảng cáo: không máu me, không chiếu thương vong. Chiến trận thể hiện bằng biểu tượng.
