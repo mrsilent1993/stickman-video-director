@@ -2,14 +2,16 @@
 
 Kênh YouTube người que, lời đọc tiếng Anh, bình luận theo kiểu "What if" về các phim nổi tiếng. Quy trình làm video: ChatGPT tạo ảnh, công cụ chuyển văn bản thành giọng đọc (TTS) tạo lời đọc, Givemotion dựng video. Người dùng trao đổi bằng tiếng Việt.
 
-## HƯỚNG CHÍNH (người dùng chọn 14/11/2026): phản diện hư cấu gốc trong bối cảnh lịch sử chung
-- Phản diện là **nhân vật do kênh tự sáng tác**, theo các **kiểu nhân vật kinh điển** (người chú cướp ngôi, gian thần, bạo chúa, vua hải tặc, thủ lĩnh du mục chinh phạt, thương nhân tham lam, kẻ săn phù thủy…). **Không ghi đây là một nhân vật lịch sử cụ thể**, và không gợi ý nhận dạng được một người có thật (ví dụ không vẽ "hoàng đế thấp người đội mũ hai sừng" khiến người xem nghĩ ngay tới Napoleon).
-- Sự kiện là **chuyện hư cấu đặt trong một thời đại chung** (một vương quốc trung cổ, một đế chế cổ đại, một thành phố cảng thế kỷ 18…), không gắn với trận đánh, năm hay địa danh lịch sử cụ thể. Có thể dùng **vương quốc và thành phố hư cấu**.
-- **Không quy phe ác cho một dân tộc hay quốc gia có thật.** Phe phản diện là một triều đình, một băng nhóm hoặc một cá nhân hư cấu.
-- **Chi tiết thời đại vẫn phải đúng:** trang phục, vũ khí, đồ vật, cách truyền tin, cách nghĩ của nhân vật. Không để lỗi thời đại (đặc biệt là lỗi trong suy nghĩ, như nhân vật cổ đại nói chuyện kiểu tâm lý học hiện đại). Bài học hiện đại chỉ do người dẫn chuyện nói, ở cuối video.
-- Mỗi video vẫn có cấu trúc: phản diện thắng, cai trị gặp hậu quả, twist, bài học (bài học lộ ra từ hậu quả, không giảng), câu hỏi kéo bình luận. Kết video lặp lại hình ảnh mở đầu nhưng đã đổi nghĩa.
-- Tránh trông như sản xuất hàng loạt: mỗi tập một câu chuyện và cú twist riêng. Có thể giữ **dàn nhân vật lặp lại** (Zeke, một "vương quốc" chung) vì chính sách YouTube cho phép "a series following a set of characters".
-- Tiêu đề dùng **kiểu nhân vật**, không dùng tên người thật (ví dụ *"What If the Evil Vizier Won?"*).
+## HƯỚNG CHÍNH (người dùng chọn 14/11/2026): sự kiện lịch sử có thật, không tập trung vào cá nhân
+- Chủ đề là **sự kiện lịch sử có thật** (một cuộc xâm lược, một trận đánh, một hạm đội…), kể theo kiểu **"What if phe thua/phe xâm lược thắng"**. "Phản diện" là **một phe, một đế chế, một đạo quân**, không phải một nhân vật cụ thể.
+- **Không xây video quanh một cá nhân.** Lãnh đạo chỉ được nhắc ngắn bằng chức danh hoặc tên khi cần cho đúng sử ("the Great Khan", "the Persian king"), không làm nhân vật chính, không vẽ chân dung nhận diện được.
+- **Góc nhìn qua người bình thường hư cấu** ("nhân chứng hư cấu"): một ngư dân, một người chèo thuyền, một lính trơn, một người buôn. Nhân vật này **ghi rõ là hư cấu** và phải hợp với thời đại.
+- **Phần lịch sử phải đúng và có nguồn:** đánh dấu trên màn hình bằng thẻ **HISTORY** (kèm nguồn ngắn, ví dụ "Source: Herodotus, Histories VIII") và **WHAT IF** khi bắt đầu phần giả tưởng. Mục Sources đặt trong mô tả. Kịch bản "What if" phải hợp lý trước một nhà sử học khó tính (độ hợp lý, tốc độ truyền tin, hậu cần).
+- **Không mô tả một dân tộc hay quốc gia ngày nay là phe ác.** Kể trung lập như chuyện của các đế chế trong quá khứ. Tránh các xung đột hiện đại hoặc còn nhạy cảm.
+- **Chống lỗi thời đại**, kể cả trong suy nghĩ của nhân vật. Bài học hiện đại chỉ do người dẫn chuyện nói ở cuối video, lộ ra từ hậu quả.
+- **Tư liệu:** dữ kiện và nguồn cổ không có bản quyền. Không chép câu chữ từ sách hay phim tài liệu hiện đại. Tranh và bản đồ cổ lấy từ Wikimedia Commons có nhãn PD, ghi credit. Không dùng clip phim tài liệu.
+- An toàn quảng cáo: không máu me, không chiếu thương vong. Chiến trận thể hiện bằng biểu tượng.
+- Tiêu đề kiểu *"What If the Persian Fleet Won at Salamis?"*: tên sự kiện thì được dùng, giúp người xem tìm kiếm dễ hơn.
 
 ## Các lựa chọn phụ (chỉ khi người dùng yêu cầu)
 ### Phản diện văn học đã hết bản quyền (phạm vi công cộng)
