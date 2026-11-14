@@ -2,6 +2,14 @@
 
 Kênh YouTube người que, lời đọc tiếng Anh, bình luận theo kiểu "What if" về các phim nổi tiếng. Quy trình làm video: ChatGPT tạo ảnh, công cụ chuyển văn bản thành giọng đọc (TTS) tạo lời đọc, Givemotion dựng video. Người dùng trao đổi bằng tiếng Việt.
 
+## ƯU TIÊN SỐ 1: phản diện đã hết bản quyền (phạm vi công cộng)
+Người dùng muốn giữ chất "phản diện phim" nhưng **không dính bản quyền**. Vì vậy chọn phản diện mặc định từ **tác phẩm gốc đã thuộc phạm vi công cộng**, dù nhân vật nổi tiếng nhờ phim (ví dụ Dracula, Moriarty, Mr. Hyde, Phantom of the Opera, Long John Silver, Javert, Scrooge, Wicked Witch bản sách 1900, Snow Queen, Medusa, Hades…).
+- **Tiêu chí:** tác phẩm gốc xuất bản **trước 1930** và tác giả mất **trước 1955**, để an toàn cả ở Mỹ lẫn những nơi tính 70 năm sau khi tác giả mất. Truyện dân gian và thần thoại thì luôn được.
+- **Chỉ dựa vào bản gốc (sách, truyện, thần thoại), không dựa vào thiết kế của phim hay nhạc kịch sau này.** Ví dụ: không vẽ đầu phẳng có bu lông kiểu Frankenstein của hãng Universal, không vẽ phù thủy da xanh lá kiểu phim *Wizard of Oz* năm 1939, không vẽ Hook hay Ursula theo Disney, không dùng nhạc hay lời bài hát của nhạc kịch. Tạo hình theo mô tả trong sách, cộng phong cách người que.
+- Với phản diện phạm vi công cộng, lời đọc **dùng tên thật**; không cần tên nhại.
+- Thận trọng với *Peter Pan*: ở Anh có quyền lợi đặc biệt dành cho bệnh viện Great Ormond Street. Ưu tiên phản diện khác.
+- Phản diện từ phim còn bản quyền (Marvel, DC, Disney, anime…) chỉ làm khi người dùng yêu cầu rõ, và áp dụng toàn bộ quy tắc bên dưới. Phải nói rõ với người dùng rằng **rủi ro chỉ giảm, không bằng 0**.
+
 ## QUY TẮC BẮT BUỘC: tránh vi phạm bản quyền
 Áp dụng cho **mọi** kịch bản, prompt ảnh, thumbnail và file sản xuất mới. Đây là cách làm an toàn trong thực tế, không phải tư vấn pháp lý.
 
