@@ -2,7 +2,17 @@
 
 Kênh YouTube người que, lời đọc tiếng Anh, bình luận theo kiểu "What if" về các phim nổi tiếng. Quy trình làm video: ChatGPT tạo ảnh, công cụ chuyển văn bản thành giọng đọc (TTS) tạo lời đọc, Givemotion dựng video. Người dùng trao đổi bằng tiếng Việt.
 
-## ƯU TIÊN SỐ 1: phản diện đã hết bản quyền (phạm vi công cộng)
+## HƯỚNG CHÍNH (người dùng chọn 14/11/2026): phản diện hư cấu gốc trong bối cảnh lịch sử chung
+- Phản diện là **nhân vật do kênh tự sáng tác**, theo các **kiểu nhân vật kinh điển** (người chú cướp ngôi, gian thần, bạo chúa, vua hải tặc, thủ lĩnh du mục chinh phạt, thương nhân tham lam, kẻ săn phù thủy…). **Không ghi đây là một nhân vật lịch sử cụ thể**, và không gợi ý nhận dạng được một người có thật (ví dụ không vẽ "hoàng đế thấp người đội mũ hai sừng" khiến người xem nghĩ ngay tới Napoleon).
+- Sự kiện là **chuyện hư cấu đặt trong một thời đại chung** (một vương quốc trung cổ, một đế chế cổ đại, một thành phố cảng thế kỷ 18…), không gắn với trận đánh, năm hay địa danh lịch sử cụ thể. Có thể dùng **vương quốc và thành phố hư cấu**.
+- **Không quy phe ác cho một dân tộc hay quốc gia có thật.** Phe phản diện là một triều đình, một băng nhóm hoặc một cá nhân hư cấu.
+- **Chi tiết thời đại vẫn phải đúng:** trang phục, vũ khí, đồ vật, cách truyền tin, cách nghĩ của nhân vật. Không để lỗi thời đại (đặc biệt là lỗi trong suy nghĩ, như nhân vật cổ đại nói chuyện kiểu tâm lý học hiện đại). Bài học hiện đại chỉ do người dẫn chuyện nói, ở cuối video.
+- Mỗi video vẫn có cấu trúc: phản diện thắng, cai trị gặp hậu quả, twist, bài học (bài học lộ ra từ hậu quả, không giảng), câu hỏi kéo bình luận. Kết video lặp lại hình ảnh mở đầu nhưng đã đổi nghĩa.
+- Tránh trông như sản xuất hàng loạt: mỗi tập một câu chuyện và cú twist riêng. Có thể giữ **dàn nhân vật lặp lại** (Zeke, một "vương quốc" chung) vì chính sách YouTube cho phép "a series following a set of characters".
+- Tiêu đề dùng **kiểu nhân vật**, không dùng tên người thật (ví dụ *"What If the Evil Vizier Won?"*).
+
+## Các lựa chọn phụ (chỉ khi người dùng yêu cầu)
+### Phản diện văn học đã hết bản quyền (phạm vi công cộng)
 Người dùng muốn giữ chất "phản diện phim" nhưng **không dính bản quyền**. Vì vậy chọn phản diện mặc định từ **tác phẩm gốc đã thuộc phạm vi công cộng**, dù nhân vật nổi tiếng nhờ phim (ví dụ Dracula, Moriarty, Mr. Hyde, Phantom of the Opera, Long John Silver, Javert, Scrooge, Wicked Witch bản sách 1900, Snow Queen, Medusa, Hades…).
 - **Tiêu chí:** tác phẩm gốc xuất bản **trước 1930** và tác giả mất **trước 1955**, để an toàn cả ở Mỹ lẫn những nơi tính 70 năm sau khi tác giả mất. Truyện dân gian và thần thoại thì luôn được.
 - **Chỉ dựa vào bản gốc (sách, truyện, thần thoại), không dựa vào thiết kế của phim hay nhạc kịch sau này.** Ví dụ: không vẽ đầu phẳng có bu lông kiểu Frankenstein của hãng Universal, không vẽ phù thủy da xanh lá kiểu phim *Wizard of Oz* năm 1939, không vẽ Hook hay Ursula theo Disney, không dùng nhạc hay lời bài hát của nhạc kịch. Tạo hình theo mô tả trong sách, cộng phong cách người que.
